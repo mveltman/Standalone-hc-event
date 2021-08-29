@@ -3,7 +3,6 @@ export const TaskTierOverview = ({taskCalculation, taskTier}) => {
     return (
         <div className={"taskoverviewcard"}>
             <div className={"taskoverviewtitle"}>
-                
                 <p><div className={`${taskTier}image2`}></div></p>
             </div>
             <div className={"taskoverviewcontent"}>
