@@ -1,6 +1,6 @@
 [build]
 command = "CI= npm run build"
-publish="build/"
+publish="standalone-hc-event/build/"
 base="standalone-hc-event/"
 
 [[redirects]]
