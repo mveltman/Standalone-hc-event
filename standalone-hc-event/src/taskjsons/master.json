@@ -1,0 +1,309 @@
+{
+    "tasks": [
+        {
+            "name": "Reach Total Level 2277",
+            "description": "Reach the highest possible Total Level of 2277.",
+            "complete": false
+        },
+        {
+            "name": "Reach Base Level 95",
+            "description": "Reach level 95 in every skill.",
+            "complete": false
+        },
+        {
+            "name": "Equip a Dragon Platebody or Dragon Kiteshield",
+            "description": "Equip either a Dragon platebody or a Dragon kiteshield.",
+            "complete": false
+        },
+        {
+            "name": "Equip an Infernal Cape",
+            "description": "",
+            "complete": false
+        },
+        {
+            "name": "Complete the Inferno in 15:00",
+            "description": "",
+            "complete": false
+        },
+        {
+            "name": "Equip Every Godsword",
+            "description": "Equip all four godswords.",
+            "complete": false
+        },
+        {
+            "name": "Equip a Full Armadyl Armour Set",
+            "description": "Equip a full set of Armadyl armour.",
+            "complete": false
+        },
+        {
+            "name": "Equip a Full Bandos Armour Set",
+            "description": "Equip a full set of Bandos armour.",
+            "complete": false
+        },
+        {
+            "name": "Equip Some Primordial, Pegasian and Eternal Boots",
+            "description": "Equip some primordial boots, some pegasian boots and some eternal boots.",
+            "complete": false
+        },
+        {
+            "name": "Build a Demonic Throne",
+            "description": "Build a demonic throne in a Throne Room in your player-owned house.",
+            "complete": false
+        },
+        {
+            "name": "Equip Every Draconic Shield",
+            "description": "Equip a dragonfire ward, a dragonfire shield and an ancient wyvern shield.",
+            "complete": false
+        },
+        {
+            "name": "Defeat Vorkath in 0:45",
+            "description": "Defeat Vorkath on Ungael in 0:45 or less.",
+            "complete": false
+        },
+        {
+            "name": "Equip Every Completed God Book",
+            "description": "Equip every completed god book.",
+            "complete": false
+        },
+        {
+            "name": "Equip All Zenyte Jewelry",
+            "description": "Equip every piece of zenyte jewellery.",
+            "complete": false
+        },
+        {
+            "name": "Enhance a Trident of the Seas",
+            "description": "Enhance a trident of the seas or Trident of the swamp.",
+            "complete": false
+        },
+        {
+            "name": "Equip a Full Inquisitor's Set",
+            "description": "Equip a full set of Inquisitor's armour.",
+            "complete": false
+        },
+        {
+            "name": "Equip a Nightmare Staff With an Orb",
+            "description": "Equip either an Eldritch Nightmare Staff, a Harmonised Nightmare Staff or a Volatile Nightmare Staff.",
+            "complete": false
+        },
+        {
+            "name": "Equip a Full Justiciar Set",
+            "description": "Equip a full set of Justiciar armour.",
+            "complete": false
+        },
+        {
+            "name": "Complete the Theatre of Blood in 20:00",
+            "description": "Complete the Theatre of Blood in 16:00 or less challenge time with 3 players or less.",
+            "complete": false
+        },
+        {
+            "name": "Equip a Corrupted Blade of Saeldor",
+            "description": "Equip a Corrupted Blade of Saeldor.",
+            "complete": false
+        },
+        {
+            "name": "Defeat Zulrah in 0:45",
+            "description": "Defeat Zulrah at the Poison Waste in 0:45 or less.",
+            "complete": false
+        },
+        {
+            "name": "Complete the Corrupted Gauntlet in 7:00",
+            "description": "Complete the Corrupted Gauntlet in Prifddinas in 5:00 or less.",
+            "complete": false
+        },
+        {
+            "name": "Equip a Crystal Crown",
+            "description": "Equip a Crystal crown.",
+            "complete": false
+        },
+        {
+            "name": "Equip a Spectral or Arcane Spirit Shield",
+            "description": "Equip either a Spectral Spirit Shield or an Arcane Spirit Shield.",
+            "complete": false
+        },
+        {
+            "name": "Equip an Elysian Spirit Shield",
+            "description": "Equip an Elysian Spirit Shield.",
+            "complete": false
+        },
+        {
+            "name": "Obtain A Revenant Weapon",
+            "description": "Obtain Craw's Bow, Viggora's Chainmace and Thammaron's Sceptre as drops from Revenants.",
+            "complete": false
+        },
+        {
+            "name": "Equip an Amulet of Eternal Glory",
+            "description": "Equip an amulet of eternal glory.",
+            "complete": false
+        },
+        {
+            "name": "Receive the completionist cape",
+            "description": "",
+            "complete": false
+        },
+        {
+            "name": "500 Elite Clue Scrolls",
+            "description": "Open 500 reward caskets for completing elite clue scrolls.",
+            "complete": false
+        },
+        {
+            "name": "100 Master Clue Scrolls",
+            "description": "Open 100 reward caskets for completing master clue scrolls.",
+            "complete": false
+        },
+        {
+            "name": "100 Mimic Kills",
+            "description": "Kill the Mimic as part of a treasure trail 100 times.",
+            "complete": false
+        },
+        {
+            "name": "750 Chambers of Xeric",
+            "description": "Complete the Chambers of Xeric 750 times.",
+            "complete": false
+        },
+        {
+            "name": "1000 Chambers of Xeric",
+            "description": "Complete the Chambers of Xeric 1000 times.",
+            "complete": false
+        },
+        {
+            "name": "200 CM Chambers of Xeric",
+            "description": "Complete the Chambers of Xeric Challenge Mode 200 times.",
+            "complete": false
+        },
+        {
+            "name": "300 CM Chambers of Xeric",
+            "description": "Complete the Chambers of Xeric Challenge Mode 300 times.",
+            "complete": false
+        },
+        {
+            "name": "400 CM Chambers of Xeric",
+            "description": "Complete the Chambers of Xeric Challenge Mode 400 times.",
+            "complete": false
+        },
+        {
+            "name": "500 CM Chambers of Xeric",
+            "description": "Complete the Chambers of Xeric Challenge Mode 500 times.",
+            "complete": false
+        },
+        {
+            "name": "Receive 25 Chambers of Xeric Uniques",
+            "description": "Receive 25 unique drops from completing the Chambers of Xeric.",
+            "complete": false
+        },
+        {
+            "name": "Equip a Twisted Bow",
+            "description": "Obtain and equip a Twisted bow.",
+            "complete": false
+        },
+        {
+            "name": "Equip an Elder Maul",
+            "description": "Obtain and equip an Elder maul.",
+            "complete": false
+        },
+        {
+            "name": "Equip a Kodai Wand",
+            "description": "Obtain and equip a Kodai wand.",
+            "complete": false
+        },
+        {
+            "name": "250 Master Clue Scrolls",
+            "description": "Open 250 reward caskets for completing master clue scrolls.",
+            "complete": false
+        },
+        {
+            "name": "500 Master Clue Scrolls",
+            "description": "Open 500 reward caskets for completing master clue scrolls.",
+            "complete": false
+        },
+        {
+            "name": "CM Chambers of Xeric in Target Time",
+            "description": "Complete the Chambers of Xeric Challenge Mode in the target time.",
+            "complete": false
+        },
+        {
+            "name": "Solo CM Chambers of Xeric in Target Time",
+            "description": "Complete the Chambers of Xeric Challenge Mode in the target time, alone.",
+            "complete": false
+        },
+        {
+            "name": "Sub 30 Chambers of Xeric Solo",
+            "description": "Complete the Chambers of Xeric in 30 minutes or less, alone.",
+            "complete": false
+        },
+        {
+            "name": "Sub 26 Chambers of Xeric Solo",
+            "description": "Complete the Chambers of Xeric in 26 minutes or less, alone.",
+            "complete": false
+        },
+        {
+            "name": "Sub 22 Chambers of Xeric Solo",
+            "description": "Complete the Chambers of Xeric in 22 minutes or less, alone.",
+            "complete": false
+        },
+        {
+            "name": "Sub 18 Chambers of Xeric Solo",
+            "description": "Complete the Chambers of Xeric in 18 minutes or less, alone.",
+            "complete": false
+        },
+        {
+            "name": "Sub 16 Chambers of Xeric Solo",
+            "description": "Complete the Chambers of Xeric in 16 minutes or less, alone.",
+            "complete": false
+        },
+        {
+            "name": "Sub 55 CM Chambers of Xeric Solo",
+            "description": "Complete the Chambers of Xeric Challenge Mode in 55 minutes or less, alone.",
+            "complete": false
+        },
+        {
+            "name": "Sub 50 CM Chambers of Xeric Solo",
+            "description": "Complete the Chambers of Xeric Challenge Mode in 50 minutes or less, alone.",
+            "complete": false
+        },
+        {
+            "name": "Sub 46 CM Chambers of Xeric Solo",
+            "description": "Complete the Chambers of Xeric Challenge Mode in 46 minutes or less, alone.",
+            "complete": false
+        },
+        {
+            "name": "Sub 42 CM Chambers of Xeric Solo",
+            "description": "Complete the Chambers of Xeric Challenge Mode in 42 minutes or less, alone.",
+            "complete": false
+        },
+        {
+            "name": "Sub 38 CM Chambers of Xeric Solo",
+            "description": "Complete the Chambers of Xeric Challenge Mode in 38 minutes or less, alone.",
+            "complete": false
+        },
+        {
+            "name": "Receive All Chambers of Xeric Uniques",
+            "description": "Receive all unique drops from completing the Chambers of Xeric.",
+            "complete": false
+        },
+        {
+            "name": "Obtain a Boss Pet",
+            "description": "Receive any boss pet as a drop.",
+            "complete": false
+        },
+        {
+            "name": "Metamorphise the Olmlet",
+            "description": "Use metamorphic dust on an Olmlet pet, to metamorphise it.",
+            "complete": false
+        },
+        {
+            "name": "Do 100% of the achievements",
+            "description": "",
+            "complete": false
+        },
+        {
+            "name": "Obtain all skilling pets",
+            "description": "",
+            "complete": false
+        },
+        {
+            "name": "Obtain 15 boss pets",
+            "description": "",
+            "complete": false
+        }
+    ]
+}

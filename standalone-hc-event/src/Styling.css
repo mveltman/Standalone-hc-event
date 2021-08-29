@@ -1,0 +1,201 @@
+.Navbar {
+    height: 9vh;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    opacity: 100%;
+    justify-content: center;
+}
+
+.link {
+    margin: 10px;
+    background-color: rgb(39, 39, 39);
+    text-decoration: none;
+    color: orange;
+    font-weight: bold;
+    font-size: large;
+    width: 10vw;
+    height: 4vh;
+    float:left;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding-top: 5px;
+}
+
+a {
+    vertical-align: -webkit-baseline-middle;
+    text-decoration: none;
+    text-emphasis: none;
+    color: black;
+}
+
+
+html, body {
+    overflow: auto;
+    min-height: 100%;
+    height: 100%;
+    background-image: url("./Ironman_Hardcore_Final.jpg");
+    opacity: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.taskoverview {
+    background-color: black;
+    color: orange;
+    opacity: 100%;
+    width: 45vw;
+    height: 85vh;
+    font-size: large;
+    margin-left: 25vw;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    border-radius: 5px;
+}
+
+.taskoverviewcard {
+    padding: 10px;
+    background-color: rgb(39, 39, 39);
+    border-radius: 10px;
+    color: orange;
+    margin: 10px;
+    height: 10vh;
+}
+
+.taskoverviewcontent {
+    text-align: center;
+    padding: 2%;
+}
+
+.taskoverviewtitle {
+    text-align: center;
+}
+
+.hardcorealive {
+    float:left;
+    width: 60%;
+    margin-top: 20px;
+}
+
+.totalpoints {
+    float:left;
+}
+
+.tasks {
+    background-color: rgba(0, 0, 0, 0.95);
+    width: 50vw;
+    color: orange;
+    margin-left: 25vw;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.task {
+    padding: 10px;
+}
+
+.taskname {
+    font-size: large;
+    font-weight: bold;
+}
+
+.taskComplete {
+    margin-top: 5px;
+}
+.task:nth-child(even) {
+    background-color: rgb(39, 39, 39);
+    border-radius: 10px;
+}
+.task:nth-child(odd) {
+    background-color: black;
+    border-radius: 10px;
+}
+
+input[type=checkbox] {
+    transform: scale(1.6);
+}
+
+.easyimage {
+    background-image: url("./easy.png");
+    background-size:contain;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 40px;
+}
+.mediumimage {
+    background-image: url("./League_tasks_-_Medium.png");
+    background-size:contain;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 40px;
+}
+.hardimage {
+    background-image: url("./League_tasks_-_Hard.png");
+    background-size:contain;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 40px;
+}
+.eliteimage {
+    background-image: url("./League_tasks_-_Elite.png");
+    background-size:contain;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 40px;
+}
+.masterimage {
+    background-image: url("./League_tasks_-_Master.png");
+    background-size:contain;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 40px;
+}
+
+.easyimage2 {
+    background-image: url("./easy.png");
+    background-size:contain;
+    width: 60px;
+    height: 60px;
+    float: left;
+    
+}
+.mediumimage2 {
+    background-image: url("./League_tasks_-_Medium.png");
+    background-size:contain;
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+.hardimage2 {
+    background-image: url("./League_tasks_-_Hard.png");
+    background-size:contain;
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+.eliteimage2 {
+    background-image: url("./League_tasks_-_Elite.png");
+    background-size:contain;
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+.masterimage2 {
+    background-image: url("./League_tasks_-_Master.png");
+    background-size:contain;
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+
+p {
+    align-content: center;
+}
+
+.tasktitle {
+    padding-left: 75px;
+}
