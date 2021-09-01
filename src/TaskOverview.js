@@ -14,7 +14,17 @@ export const TaskOverview = () => {
         return returnObject;
     }
 
-    const [alive, setAlive] = useState(true);
+    const [alive, setAlive] = useState(localStorage.getItem("alive"));
+
+    const toggleAlive = () => {
+        if(localStorage.getItem("alive") === "true"){
+            localStorage.setItem("alive", "false");
+            setAlive("false");
+        } else {
+            localStorage.setItem("alive", "true");
+            setAlive("true");
+        }
+    }
 
     const calculatePointTotal = () => {
         const easypointsconst = 10;
@@ -73,7 +83,7 @@ export const TaskOverview = () => {
             <TaskTierOverview taskCalculation={calculateTasks("masterTasks")} taskTier={"master"} />
             <div className={"hardcorealive"}>
                 <label>Is your hardcore alive?</label>
-                <input type="checkbox" checked={alive} onChange={() => setAlive(!alive)}></input>
+                <input type="checkbox" checked={(alive === "true")} onChange={() => toggleAlive()}></input>
             </div>
             <h1 className={"totalpoints"}>
                 Your total amount of points is: <br/> {calculatePointTotal()}

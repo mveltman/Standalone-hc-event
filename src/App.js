@@ -31,6 +31,7 @@ function App() {
       localStorage.setItem("hardTasks", JSON.stringify(hard))
       localStorage.setItem("eliteTasks", JSON.stringify(elite))
       localStorage.setItem("masterTasks", JSON.stringify(master))
+      localStorage.setItem("alive", "true")
 
       localStorage.setItem("firstvisit", "false");
     }
