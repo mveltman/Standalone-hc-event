@@ -55,11 +55,12 @@ export const TaskOverview = () => {
             if(task.complete) masterpoints = masterpoints + masterpointsconst;
         });
 
-        let pointTotal = easypoints + mediumpoints + hardpoints + elitepoints + masterpoints;
+        let softpointTotal = easypoints + mediumpoints;
+        let hardpointTotal = hardpoints + elitepoints + masterpoints;
         if(alive){
-            return pointTotal;
+            return softpointTotal + hardpointTotal;
         }else {
-            return pointTotal/2;
+            return softpointTotal + hardpointTotal/2;
         }
     }
 
