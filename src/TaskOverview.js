@@ -67,7 +67,7 @@ export const TaskOverview = () => {
 
         let softpointTotal = easypoints + mediumpoints;
         let hardpointTotal = hardpoints + elitepoints + masterpoints;
-        if(alive){
+        if((alive === "true")){
             return softpointTotal + hardpointTotal;
         }else {
             return softpointTotal + hardpointTotal/2;
