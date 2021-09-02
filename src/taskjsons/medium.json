@@ -1,542 +1,341 @@
-{ "tasks": [
-    {
-        "name": "Achieve Your First Level 30",
-        "description": "Reach level 30 in any skill.",
-        "complete": false
-    },
-    {
-        "name": "Achieve Your First Level 40",
-        "description": "Reach level 40 in any skill.",
-        "complete": false
-    },
-    {
-        "name": "Achieve Your First Level 50",
-        "description": "Reach level 50 in any skill.",
-        "complete": false
-    },
-    {
-        "name": "Reach Total Level 750",
-        "description": "Reach a Total Level of 750.",
-        "complete": false
-    },
-    {
-        "name": "Reach Total Level 1000",
-        "description": "Reach a Total Level of 1000.",
-        "complete": false
-    },
-    {
-        "name": "Reach Total Level 1250",
-        "description": "Reach a Total Level of 1250.",
-        "complete": false
-    },
-    {
-        "name": "Reach Base Level 30",
-        "description": "Reach level 30 in every skill.",
-        "complete": false
-    },
-    {
-        "name": "Reach Base Level 40",
-        "description": "Reach level 40 in every skill.",
-        "complete": false
-    },
-    {
-        "name": "Reach Base Level 50",
-        "description": "Reach level 50 in every skill.",
-        "complete": false
-    },
-    {
-        "name": "Defeat a Superior Slayer Creature",
-        "description": "Defeat any Superior Slayer Creature.",
-        "complete": false
-    },
-    {
-        "name": "Reach Combat Level 50",
-        "description": "Reach Combat Level 50.",
-        "complete": false
-    },
-    {
-        "name": "Reach Combat Level 75",
-        "description": "Reach Combat Level 75.",
-        "complete": false
-    },
-    {
-        "name": "Reach a Prayer Bonus of 15",
-        "description": "Equip enough items to reach a Prayer bonus of 15 or more.",
-        "complete": false
-    },
-    {
-        "name": "Complete a Medium Clue Scroll",
-        "description": "Complete a medium clue scroll by opening a Reward Casket.",
-        "complete": false
-    },
-    {
-        "name": "Complete a Hard Clue Scroll",
-        "description": "Complete a hard clue scroll by opening a Reward Casket.",
-        "complete": false
-    },
-    {
-        "name": "Gain a Unique Item From a Medium Clue",
-        "description": "Gain a unique item from a Medium Clue Scroll Reward Casket.",
-        "complete": false
-    },
-    {
-        "name": "Gain a Unique Item From a Hard Clue",
-        "description": "Gain a unique item from a Hard Clue Scroll Reward Casket.",
-        "complete": false
-    },
-    {
-        "name": "Gain 10 Unique Items From Beginner Clues",
-        "description": "Gain 10 unique items from Beginner Clue Scroll Reward Caskets.",
-        "complete": false
-    },
-    {
-        "name": "Gain 10 Unique Items From Easy Clues",
-        "description": "Gain 10 unique items from Easy Clue Scroll Reward Caskets.",
-        "complete": false
-    },
-    {
-        "name": "Gain 10 Unique Items From Medium Clues",
-        "description": "Gain 10 unique items from Medium Clue Scroll Reward Caskets.",
-        "complete": false
-    },
-    {
-        "name": "Gain 5 Unique Items From Hard Clues",
-        "description": "Gain 5 unique items from Hard Clue Scroll Reward Caskets.",
-        "complete": false
-    },
-    {
-        "name": "Fill 5 Beginner Clue Collection Log Slots",
-        "description": "Fill 5 slots in the Beginner Clue section of the Collection Log.",
-        "complete": false
-    },
-    {
-        "name": "Fill 5 Easy Clue Collection Log Slots",
-        "description": "Fill 5 slots in the Easy Clue section of the Collection Log.",
-        "complete": false
-    },
-    {
-        "name": "Fill 5 Medium Clue Collection Log Slots",
-        "description": "Fill 5 slots in the Medium Clue section of the Collection Log.",
-        "complete": false
-    },
-    {
-        "name": "Fill 3 Hard Clue Collection Log Slots",
-        "description": "Fill 3 slots in the Hard Clue section of the Collection Log.",
-        "complete": false
-    },
-    {
-        "name": "Fill 3 Elite Clue Collection Log Slots",
-        "description": "Fill 3 slots in the Elite Clue section of the Collection Log.",
-        "complete": false
-    },
-    {
-        "name": "Obtain 20 Golden Nuggets",
-        "description": "",
-        "complete": false
-    },
-    {
-        "name": "Enter the Crafting Guild",
-        "description": "",
-        "complete": false
-    },
-    {
-        "name": "Harvest Any Herb at the Troll Stronghold",
-        "description": "",
-        "complete": false
-    },
-    {
-        "name": "Defeat the Giant Mole",
-        "description": "",
-        "complete": false
-    },
-    {
-        "name": "Defeat a Skeletal Wyvern",
-        "description": "",
-        "complete": false
-    },
-    {
-        "name": "Equip Some Granite Legs",
-        "description": "",
-        "complete": false
-    },
-    {
-        "name": "Enter the Warriors' Guild",
-        "description": "",
-        "complete": false
-    },
-    {
-        "name": "Obtain 20 Golden Nuggets",
-        "description": "Obtain 20 golden nuggets from the Motherlode Mine beneath Falador.",
-        "complete": false
-    },
-    {
-        "name": "Enter the Crafting Guild",
-        "description": "Enter the Crafting Guild.",
-        "complete": false
-    },
-    {
-        "name": "Harvest Any Herb at the Troll Stronghold",
-        "description": "Harvest any herb you've grown at the Troll Stronghold.",
-        "complete": false
-    },
-    {
-        "name": "Defeat the Giant Mole",
-        "description": "Defeat the Giant Mole beneath Falador.",
-        "complete": false
-    },
-    {
-        "name": "Defeat a Skeletal Wyvern",
-        "description": "Defeat a Skeletal Wyvern in the Asgarnian Ice Dungeon.",
-        "complete": false
-    },
-    {
-        "name": "Equip Some Granite Legs",
-        "description": "Equip some granite legs.",
-        "complete": false
-    },
-    {
-        "name": "Enter the Warriors' Guild",
-        "description": "Enter the Warriors' Guild.",
-        "complete": false
-    },
-    {
-        "name": "Defeat a Basilisk Knight",
-        "description": "Defeat a basilisk knight in the Jormungand's Prison.",
-        "complete": false
-    },
-    {
-        "name": "Defeat a Kurask in the Fremennik Province",
-        "description": "Defeat a kurask in the Fremennik Province.",
-        "complete": false
-    },
-    {
-        "name": "Equip a Brine Sabre",
-        "description": "Equip a brine sabre.",
-        "complete": false
-    },
-    {
-        "name": "Equip a Helm of Neitiznot",
-        "description": "Equip a helm of neitiznot.",
-        "complete": false
-    },
-    {
-        "name": "Complete the Barbarian Outpost Agility Course",
-        "description": "Complete a lap of the Barbarian Outpost Agility Course.",
-        "complete": false
-    },
-    {
-        "name": "Equip a Spottier Cape",
-        "description": "Equip a spottier cape.",
-        "complete": false
-    },
-    {
-        "name": "Enter the Fishing Guild",
-        "description": "Enter the Fishing Guild.",
-        "complete": false
-    },
-    {
-        "name": "Move Your House to Yanille",
-        "description": "Move your player-owned house to Yanille.",
-        "complete": false
-    },
-    {
-        "name": "Check a grown Papaya Tree in the Gnome Stronghold",
-        "description": "Check the health of a papaya tree you've grown in the Tree Gnome Stronghold.",
-        "complete": false
-    },
-    {
-        "name": "Defeat a Mithril Dragon",
-        "description": "Defeat a mithril dragon in the Ancient Cavern.",
-        "complete": false
-    },
-    {
-        "name": "Equip a Dragon Scimitar",
-        "description": "Equip a dragon scimitar.",
-        "complete": false
-    },
-    {
-        "name": "Set Up a Dwarf Cannon",
-        "description": "Set up a dwarf multicannon.",
-        "complete": false
-    },
-    {
-        "name": "Enter the Ranging Guild",
-        "description": "Enter the Ranging Guild.",
-        "complete": false
-    },
-    {
-        "name": "Enter the Wizards' Guild",
-        "description": "Enter the Wizards' Guild in Yanille.",
-        "complete": false
-    },
-    {
-        "name": "Defeat a Bloodveld in Kandarin",
-        "description": "Defeat a bloodveld in Kandarin.",
-        "complete": false
-    },
-    {
-        "name": "Use the Chivalry Prayer",
-        "description": "Use the Chivalry prayer.",
-        "complete": false
-    },
-    {
-        "name": "Equip an Iban's Staff",
-        "description": "Equip an iban's staff",
-        "complete": false
-    },
-    {
-        "name": "Complete Room 3 of Pyramid Plunder",
-        "description": "Search the Golden Chest in Room 3 of Pyramid Plunder in Sophanem.",
-        "complete": false
-    },
-    {
-        "name": "Complete Room 4 of Pyramid Plunder",
-        "description": "Search the Golden Chest in Room 4 of Pyramid Plunder in Sophanem.",
-        "complete": false
-    },
-    {
-        "name": "Complete Room 5 of Pyramid Plunder",
-        "description": "Search the Golden Chest in Room 5 of Pyramid Plunder in Sophanem.",
-        "complete": false
-    },
-    {
-        "name": "Turn in a Pyramid Top to Simon Templeton",
-        "description": "Turn in a Pyramid top to Simon Templeton at the Agility Pyramid.",
-        "complete": false
-    },
-    {
-        "name": "Cast Ice Rush",
-        "description": "Cast the Ice Rush spell.",
-        "complete": false
-    },
-    {
-        "name": "Complete Floor 1 of the Hallowed Sepulchre",
-        "description": "Complete floor 1 of the Hallowed Sepulchre in Darkmeyer.",
-        "complete": false
-    },
-    {
-        "name": "Complete Floor 2 of the Hallowed Sepulchre",
-        "description": "Complete floor 2 of the Hallowed Sepulchre in Darkmeyer.",
-        "complete": false
-    },
-    {
-        "name": "Complete the Canifis Agility Course",
-        "description": "Complete a lap of the Canifis Rooftop Agility Course.",
-        "complete": false
-    },
-    {
-        "name": "Complete the Werewolf Agility Course",
-        "description": "Complete a lap of the Werewolf Agility Course.",
-        "complete": false
-    },
-    {
-        "name": "Catch a Swamp Lizard in Morytania",
-        "description": "Catch a Swamp Lizard in Morytania.",
-        "complete": false
-    },
-    {
-        "name": "Convert 2,000 Daeyalt Shards Into Essence",
-        "description": "Convert 2,000 Daeyalt Shards into Daeyalt Essence in Darkmeyer in one go.",
-        "complete": false
-    },
-    {
-        "name": "Assemble a Slayer Helm",
-        "description": "Assemble a Slayer Helm.",
-        "complete": false
-    },
-    {
-        "name": "Loot a Barrows Chest",
-        "description": "Loot a Barrows Chest once.",
-        "complete": false
-    },
-    {
-        "name": "Equip a Piece of any Barrows Armour Set",
-        "description": "Equip any piece of any Barrows armour set.",
-        "complete": false
-    },
-    {
-        "name": "Equip a Salve Amulet (e)",
-        "description": "Equip a Salve amulet (e).",
-        "complete": false
-    },
-    {
-        "name": "Complete the Wilderness Agility Course",
-        "description": "Complete a lap of the Wilderness Agility Course.",
-        "complete": false
-    },
-    {
-        "name": "Catch a Black Salamander",
-        "description": "Catch a Black Salamander in the Wilderness.",
-        "complete": false
-    },
-    {
-        "name": "Defeat the Crazy Archaeologist",
-        "description": "Defeat the Crazy Archaeologist in the Wilderness.",
-        "complete": false
-    },
-    {
-        "name": "Defeat Scorpia",
-        "description": "Defeat Scorpia in the Wilderness.",
-        "complete": false
-    },
-    {
-        "name": "Defeat the Chaos Fanatic",
-        "description": "Defeat the Chaos Fanatic in the Wilderness.",
-        "complete": false
-    },
-    {
-        "name": "Defeat the Chaos Elemental",
-        "description": "Defeat the Chaos Elemental in the Wilderness.",
-        "complete": false
-    },
-    {
-        "name": "Equip a Fedora",
-        "description": "Equip a Fedora.",
-        "complete": false
-    },
-    {
-        "name": "Equip a Bracelet of Ethereum",
-        "description": "Equip a Bracelet of ethereum.",
-        "complete": false
-    },
-    {
-        "name": "Equip a God Cape",
-        "description": "Equip either a Saradomin cape, a Guthix cape or Zamorak cape.",
-        "complete": false
-    },
-    {
-        "name": "200 Wintertodt Kills",
-        "description": "Help the pyromancers subdue the Wintertodt 200 times.",
-        "complete": false
-    },
-    {
-        "name": "100 Lizardmen Shaman Kills",
-        "description": "Help the Shayzien house by killing 100 Lizardmen shamans.",
-        "complete": false
-    },
-    {
-        "name": "500 Lizardmen Shaman Kills",
-        "description": "Help the Shayzien house by killing 500 Lizardmen shamans.",
-        "complete": false
-    },
-    {
-        "name": "25 Sarachnis Kills",
-        "description": "Kill Sarachnis in the Forthos Dungeon 25 times.",
-        "complete": false
-    },
-    {
-        "name": "50 Sarachnis Kills",
-        "description": "Kill Sarachnis in the Forthos Dungeon 50 times.",
-        "complete": false
-    },
-    {
-        "name": "75 Sarachnis Kills",
-        "description": "Kill Sarachnis in the Forthos Dungeon 75 times.",
-        "complete": false
-    },
-    {
-        "name": "100 Sarachnis Kills",
-        "description": "Kill Sarachnis in the Forthos Dungeon 100 times.",
-        "complete": false
-    },
-    {
-        "name": "1 Skotizo Kill",
-        "description": "Kill Skotizo beneath the Catacombs of Kourend.",
-        "complete": false
-    },
-    {
-        "name": "Open 10 Grubby Chests",
-        "description": "Open the grubby chest in the Forthos Dungeon 10 times.",
-        "complete": false
-    },
-    {
-        "name": "Open 25 Grubby Chests",
-        "description": "Open the grubby chest in the Forthos Dungeon 25 times.",
-        "complete": false
-    },
-    {
-        "name": "Open 50 Grubby Chests",
-        "description": "Open the grubby chest in the Forthos Dungeon 50 times.",
-        "complete": false
-    },
-    {
-        "name": "Equip Xeric's Talisman",
-        "description": "Obtain and equip Xeric's talisman.",
-        "complete": false
-    },
-    {
-        "name": "300 Wintertodt Kills",
-        "description": "Help the pyromancers subdue the Wintertodt 300 times.",
-        "complete": false
-    },
-    {
-        "name": "400 Wintertodt Kills",
-        "description": "Help the pyromancers subdue the Wintertodt 400 times.",
-        "complete": false
-    },
-    {
-        "name": "500 Wintertodt Kills",
-        "description": "Help the pyromancers subdue the Wintertodt 500 times.",
-        "complete": false
-    },
-    {
-        "name": "1000 Lizardmen Shaman Kills",
-        "description": "Help the Shayzien house by killing 1000 Lizardmen shamans.",
-        "complete": false
-    },
-    {
-        "name": "250 Sarachnis Kills",
-        "description": "Kill Sarachnis in the Forthos Dungeon 250 times.",
-        "complete": false
-    },
-    {
-        "name": "1 Alchemical Hydra Kill",
-        "description": "Kill the Alchemical Hydra in Mount Karuulm.",
-        "complete": false
-    },
-    {
-        "name": "25 Alchemical Hydra Kills",
-        "description": "Kill the Alchemical Hydra in Mount Karuulm 25 times.",
-        "complete": false
-    },
-    {
-        "name": "50 Alchemical Hydra Kills",
-        "description": "Kill the Alchemical Hydra in Mount Karuulm 50 times.",
-        "complete": false
-    },
-    {
-        "name": "75 Alchemical Hydra Kills",
-        "description": "Kill the Alchemical Hydra in Mount Karuulm 75 times.",
-        "complete": false
-    },
-    {
-        "name": "100 Alchemical Hydra Kills",
-        "description": "Kill the Alchemical Hydra in Mount Karuulm 100 times.",
-        "complete": false
-    },
-    {
-        "name": "Equip a Brimstone Ring",
-        "description": "Obtain and equip a Brimstone ring.",
-        "complete": false
-    },
-    {
-        "name": "Do 55% of the achievements",
-        "description": "",
-        "complete": false
-    },
-    {
-        "name": "Defeat the Fragment of Seren",
-        "description": "",
-        "complete": false
-    },
-    {
-        "name": "Defeat Mutant Tarn",
-        "description": "",
-        "complete": false
-    },
-    {
-        "name": "Defeat the mimic in",
-        "description": "",
-        "complete": false
-    }
-]}
+{
+    "tasks": [
+        {
+            "name": "Defeat a Superior Slayer Creature",
+            "description": "Defeat any Superior Slayer Creature."
+        ,"complete": false},
+        {
+            "name": "Reach a Prayer Bonus of 15",
+            "description": "Equip enough items to reach a Prayer bonus of 15 or more."
+        ,"complete": false},
+        {
+            "name": "Complete a Medium Clue Scroll",
+            "description": "Complete a medium clue scroll by opening a Reward Casket."
+        ,"complete": false},
+        {
+            "name": "Complete a Hard Clue Scroll",
+            "description": "Complete a hard clue scroll by opening a Reward Casket."
+        ,"complete": false},
+        {
+            "name": "Gain a Unique Item From a Medium Clue",
+            "description": "Gain a unique item from a Medium Clue Scroll Reward Casket."
+        ,"complete": false},
+        {
+            "name": "Gain a Unique Item From a Hard Clue",
+            "description": "Gain a unique item from a Hard Clue Scroll Reward Casket."
+        ,"complete": false},
+        {
+            "name": "Gain 10 Unique Items From Beginner Clues",
+            "description": "Gain 10 unique items from Beginner Clue Scroll Reward Caskets."
+        ,"complete": false},
+        {
+            "name": "Gain 10 Unique Items From Easy Clues",
+            "description": "Gain 10 unique items from Easy Clue Scroll Reward Caskets."
+        ,"complete": false},
+        {
+            "name": "Gain 10 Unique Items From Medium Clues",
+            "description": "Gain 10 unique items from Medium Clue Scroll Reward Caskets."
+        ,"complete": false},
+        {
+            "name": "Gain 5 Unique Items From Hard Clues",
+            "description": "Gain 5 unique items from Hard Clue Scroll Reward Caskets."
+        ,"complete": false},
+        {
+            "name": "Fill 5 Beginner Clue Collection Log Slots",
+            "description": "Fill 5 slots in the Beginner Clue section of the Collection Log."
+        ,"complete": false},
+        {
+            "name": "Fill 5 Easy Clue Collection Log Slots",
+            "description": "Fill 5 slots in the Easy Clue section of the Collection Log."
+        ,"complete": false},
+        {
+            "name": "Fill 5 Medium Clue Collection Log Slots",
+            "description": "Fill 5 slots in the Medium Clue section of the Collection Log."
+        ,"complete": false},
+        {
+            "name": "Fill 3 Hard Clue Collection Log Slots",
+            "description": "Fill 3 slots in the Hard Clue section of the Collection Log."
+        ,"complete": false},
+        {
+            "name": "Fill 3 Elite Clue Collection Log Slots",
+            "description": "Fill 3 slots in the Elite Clue section of the Collection Log."
+        ,"complete": false},
+        {
+            "name": "Obtain 20 Golden Nuggets",
+            "description": "Obtain 20 Golden Nuggets from Motherlode mine"
+        ,"complete": false},
+        {
+            "name": "Defeat the Giant Mole",
+            "description": "Kill the Giant Mole in the Falador underground"
+        ,"complete": false},
+        {
+            "name": "Defeat a Skeletal Wyvern",
+            "description": "Kill a skeletal wyvern in the Asgarnian Ice Dungeon"
+        ,"complete": false},
+        {
+            "name": "Equip Some Granite Legs",
+            "description": "Equip a pair of Granite legs"
+        ,"complete": false},
+        {
+            "name": "Enter the Warriors' Guild",
+            "description": "Enter the Burthorpe Warriors' guild"
+        ,"complete": false},
+        {
+            "name": "Obtain 20 Golden Nuggets",
+            "description": "Obtain 20 golden nuggets from the Motherlode Mine beneath Falador."
+        ,"complete": false},
+        {
+            "name": "Enter the Crafting Guild",
+            "description": "Enter the Crafting Guild."
+        ,"complete": false},
+        {
+            "name": "Defeat a Basilisk Knight",
+            "description": "Defeat a basilisk knight in the Jormungand's Prison."
+        ,"complete": false},
+        {
+            "name": "Defeat a Kurask in the Fremennik Province",
+            "description": "Defeat a kurask in the Fremennik Province."
+        ,"complete": false},
+        {
+            "name": "Equip a Brine Sabre",
+            "description": "Equip a brine sabre."
+        ,"complete": false},
+        {
+            "name": "Equip a Helm of Neitiznot",
+            "description": "Equip a helm of neitiznot."
+        ,"complete": false},
+        {
+            "name": "Complete the Barbarian Outpost Agility Course",
+            "description": "Complete a lap of the Barbarian Outpost Agility Course."
+        ,"complete": false},
+        {
+            "name": "Equip a Spottier Cape",
+            "description": "Equip a spottier cape."
+        ,"complete": false},
+        {
+            "name": "Enter the Fishing Guild",
+            "description": "Enter the Fishing Guild."
+        ,"complete": false},
+        {
+            "name": "Move Your House to Yanille",
+            "description": "Move your player-owned house to Yanille."
+        ,"complete": false},
+        {
+            "name": "Check a grown Papaya Tree in the Gnome Stronghold",
+            "description": "Check the health of a papaya tree you've grown in the Tree Gnome Stronghold."
+        ,"complete": false},
+        {
+            "name": "Defeat a Mithril Dragon",
+            "description": "Defeat a mithril dragon in the Ancient Cavern."
+        ,"complete": false},
+        {
+            "name": "Equip a Dragon Scimitar",
+            "description": "Equip a dragon scimitar."
+        ,"complete": false},
+        {
+            "name": "Set Up a Dwarf Cannon",
+            "description": "Set up a dwarf multicannon."
+        ,"complete": false},
+        {
+            "name": "Equip an Iban's Staff",
+            "description": "Equip an iban's staff"
+        ,"complete": false},
+        {
+            "name": "Complete Room 3 of Pyramid Plunder",
+            "description": "Search the Golden Chest in Room 3 of Pyramid Plunder in Sophanem."
+        ,"complete": false},
+        {
+            "name": "Complete Room 4 of Pyramid Plunder",
+            "description": "Search the Golden Chest in Room 4 of Pyramid Plunder in Sophanem."
+        ,"complete": false},
+        {
+            "name": "Complete Room 5 of Pyramid Plunder",
+            "description": "Search the Golden Chest in Room 5 of Pyramid Plunder in Sophanem."
+        ,"complete": false},
+        {
+            "name": "Turn in a Pyramid Top to Simon Templeton",
+            "description": "Turn in a Pyramid top to Simon Templeton at the Agility Pyramid."
+        ,"complete": false},
+        {
+            "name": "Complete Floor 1 of the Hallowed Sepulchre",
+            "description": "Complete floor 1 of the Hallowed Sepulchre in Darkmeyer."
+        ,"complete": false},
+        {
+            "name": "Complete Floor 2 of the Hallowed Sepulchre",
+            "description": "Complete floor 2 of the Hallowed Sepulchre in Darkmeyer."
+        ,"complete": false},
+        {
+            "name": "Complete the Canifis Agility Course",
+            "description": "Complete a lap of the Canifis Rooftop Agility Course."
+        ,"complete": false},
+        {
+            "name": "Complete the Werewolf Agility Course",
+            "description": "Complete a lap of the Werewolf Agility Course."
+        ,"complete": false},
+        {
+            "name": "Catch a Swamp Lizard in Morytania",
+            "description": "Catch a Swamp Lizard in Morytania."
+        ,"complete": false},
+        {
+            "name": "Assemble a Slayer Helm",
+            "description": "Assemble a Slayer Helm."
+        ,"complete": false},
+        {
+            "name": "Loot a Barrows Chest",
+            "description": "Loot a Barrows Chest once."
+        ,"complete": false},
+        {
+            "name": "Equip a Piece of any Barrows Armour Set",
+            "description": "Equip any piece of any Barrows armour set."
+        ,"complete": false},
+        {
+            "name": "Equip a Salve Amulet (e)",
+            "description": "Equip a Salve amulet (e)."
+        ,"complete": false},
+        {
+            "name": "Complete the Wilderness Agility Course",
+            "description": "Complete a lap of the Wilderness Agility Course."
+        ,"complete": false},
+        {
+            "name": "Catch a Black Salamander",
+            "description": "Catch a Black Salamander in the Wilderness."
+        ,"complete": false},
+        {
+            "name": "Defeat the Crazy Archaeologist",
+            "description": "Defeat the Crazy Archaeologist in the Wilderness."
+        ,"complete": false},
+        {
+            "name": "Defeat Scorpia",
+            "description": "Defeat Scorpia in the Wilderness."
+        ,"complete": false},
+        {
+            "name": "Defeat the Chaos Fanatic",
+            "description": "Defeat the Chaos Fanatic in the Wilderness."
+        ,"complete": false},
+        {
+            "name": "Defeat the Chaos Elemental",
+            "description": "Defeat the Chaos Elemental in the Wilderness."
+        ,"complete": false},
+        {
+            "name": "Equip a Fedora",
+            "description": "Equip a Fedora."
+        ,"complete": false},
+        {
+            "name": "Equip a Bracelet of Ethereum",
+            "description": "Equip a Bracelet of ethereum."
+        ,"complete": false},
+        {
+            "name": "Equip a God Cape",
+            "description": "Equip either a Saradomin cape, a Guthix cape or Zamorak cape."
+        ,"complete": false},
+        {
+            "name": "200 Wintertodt Kills",
+            "description": "Help the pyromancers subdue the Wintertodt 200 times."
+        ,"complete": false},
+        {
+            "name": "100 Lizardmen Shaman Kills",
+            "description": "Help the Shayzien house by killing 100 Lizardmen shamans."
+        ,"complete": false},
+        {
+            "name": "500 Lizardmen Shaman Kills",
+            "description": "Help the Shayzien house by killing 500 Lizardmen shamans."
+        ,"complete": false},
+        {
+            "name": "25 Sarachnis Kills",
+            "description": "Kill Sarachnis in the Forthos Dungeon 25 times."
+        ,"complete": false},
+        {
+            "name": "50 Sarachnis Kills",
+            "description": "Kill Sarachnis in the Forthos Dungeon 50 times."
+        ,"complete": false},
+        {
+            "name": "75 Sarachnis Kills",
+            "description": "Kill Sarachnis in the Forthos Dungeon 75 times."
+        ,"complete": false},
+        {
+            "name": "100 Sarachnis Kills",
+            "description": "Kill Sarachnis in the Forthos Dungeon 100 times."
+        ,"complete": false},
+        {
+            "name": "1 Skotizo Kill",
+            "description": "Kill Skotizo beneath the Catacombs of Kourend."
+        ,"complete": false},
+        {
+            "name": "Open 10 Grubby Chests",
+            "description": "Open the grubby chest in the Forthos Dungeon 10 times."
+        ,"complete": false},
+        {
+            "name": "Open 25 Grubby Chests",
+            "description": "Open the grubby chest in the Forthos Dungeon 25 times."
+        ,"complete": false},
+        {
+            "name": "Open 50 Grubby Chests",
+            "description": "Open the grubby chest in the Forthos Dungeon 50 times."
+        ,"complete": false},
+        {
+            "name": "Equip Xeric's Talisman",
+            "description": "Obtain and equip Xeric's talisman."
+        ,"complete": false},
+        {
+            "name": "300 Wintertodt Kills",
+            "description": "Help the pyromancers subdue the Wintertodt 300 times."
+        ,"complete": false},
+        {
+            "name": "400 Wintertodt Kills",
+            "description": "Help the pyromancers subdue the Wintertodt 400 times."
+        ,"complete": false},
+        {
+            "name": "500 Wintertodt Kills",
+            "description": "Help the pyromancers subdue the Wintertodt 500 times."
+        ,"complete": false},
+        {
+            "name": "1000 Lizardmen Shaman Kills",
+            "description": "Help the Shayzien house by killing 1000 Lizardmen shamans."
+        ,"complete": false},
+        {
+            "name": "250 Sarachnis Kills",
+            "description": "Kill Sarachnis in the Forthos Dungeon 250 times."
+        ,"complete": false},
+        {
+            "name": "1 Alchemical Hydra Kill",
+            "description": "Kill the Alchemical Hydra in Mount Karuulm."
+        ,"complete": false},
+        {
+            "name": "25 Alchemical Hydra Kills",
+            "description": "Kill the Alchemical Hydra in Mount Karuulm 25 times."
+        ,"complete": false},
+        {
+            "name": "50 Alchemical Hydra Kills",
+            "description": "Kill the Alchemical Hydra in Mount Karuulm 50 times."
+        ,"complete": false},
+        {
+            "name": "75 Alchemical Hydra Kills",
+            "description": "Kill the Alchemical Hydra in Mount Karuulm 75 times."
+        ,"complete": false},
+        {
+            "name": "100 Alchemical Hydra Kills",
+            "description": "Kill the Alchemical Hydra in Mount Karuulm 100 times."
+        ,"complete": false},
+        {
+            "name": "Equip a Brimstone Ring",
+            "description": "Obtain and equip a Brimstone ring."
+        ,"complete": false},
+        {
+            "name": "Do 55% of the achievements",
+            "description": "Complete up to 55% of all the achievements"
+        ,"complete": false},
+        {
+            "name": "Defeat the Fragment of Seren",
+            "description": "Kill the Fragment of Seren"
+        ,"complete": false},
+        {
+            "name": "Defeat Mutant Tarn",
+            "description": "Kill the Mutant Tarn"
+        ,"complete": false},
+        {
+            "name": "1 Sarachnis Kill",
+            "description": "Kill Sarachnis in the Forthos Dungeon.",
+            "complete": false
+        }
+    ]
+}

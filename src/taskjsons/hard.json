@@ -2,832 +2,875 @@
     "tasks": [
         {
             "name": "Achieve Your First Level 60",
-            "description": "Reach level 60 in any skill.",
-            "complete": false
-        },
+            "description": "Reach level 60 in any skill."
+        ,"complete": false},
         {
             "name": "Achieve Your First Level 70",
-            "description": "Reach level 70 in any skill.",
-            "complete": false
-        },
+            "description": "Reach level 70 in any skill."
+        ,"complete": false},
         {
             "name": "Achieve Your First Level 80",
-            "description": "Reach level 80 in any skill.",
-            "complete": false
-        },
+            "description": "Reach level 80 in any skill."
+        ,"complete": false},
         {
             "name": "Reach Total Level 1500",
-            "description": "Reach a Total Level of 1500.",
-            "complete": false
-        },
+            "description": "Reach a Total Level of 1500."
+        ,"complete": false},
         {
             "name": "Reach Total Level 1750",
-            "description": "Reach a Total Level of 1750.",
-            "complete": false
-        },
+            "description": "Reach a Total Level of 1750."
+        ,"complete": false},
         {
             "name": "Reach Base Level 60",
-            "description": "Reach level 60 in every skill.",
-            "complete": false
-        },
+            "description": "Reach level 60 in every skill."
+        ,"complete": false},
         {
             "name": "Reach Base Level 70",
-            "description": "Reach level 70 in every skill.",
-            "complete": false
-        },
+            "description": "Reach level 70 in every skill."
+        ,"complete": false},
         {
             "name": "Complete 50 Slayer Tasks",
-            "description": "Complete 50 Slayer Tasks.",
-            "complete": false
-        },
+            "description": "Complete 50 Slayer Tasks."
+        ,"complete": false},
         {
             "name": "Complete 100 Slayer Tasks",
-            "description": "Complete 100 Slayer Tasks.",
-            "complete": false
-        },
+            "description": "Complete 100 Slayer Tasks."
+        ,"complete": false},
         {
             "name": "Complete 250 Laps of a Rooftop Agility Course",
-            "description": "Complete 250 laps of any Rooftop Agility Course.",
-            "complete": false
-        },
+            "description": "Complete 250 laps of any Rooftop Agility Course."
+        ,"complete": false},
         {
             "name": "Restore 75 Prayer Points at an Altar",
-            "description": "Restore 75 or more Prayer Points at any altar.",
-            "complete": false
-        },
+            "description": "Restore 75 or more Prayer Points at any altar."
+        ,"complete": false},
         {
             "name": "Reach a Prayer Bonus of 30",
-            "description": "Equip enough items to reach a Prayer bonus of 30 or more.",
-            "complete": false
-        },
+            "description": "Equip enough items to reach a Prayer bonus of 30 or more."
+        ,"complete": false},
         {
             "name": "Complete an Elite Clue Scroll",
-            "description": "Complete an elite clue scroll by opening a Reward Casket.",
-            "complete": false
-        },
+            "description": "Complete an elite clue scroll by opening a Reward Casket."
+        ,"complete": false},
         {
             "name": "Complete a Master Clue Scroll",
-            "description": "Complete a master clue scroll by opening a Reward Casket.",
-            "complete": false
-        },
+            "description": "Complete a master clue scroll by opening a Reward Casket."
+        ,"complete": false},
         {
             "name": "Gain a Unique Item From an Elite Clue",
-            "description": "Gain a unique item from an Elite Clue Scroll Reward Casket.",
-            "complete": false
-        },
+            "description": "Gain a unique item from an Elite Clue Scroll Reward Casket."
+        ,"complete": false},
         {
             "name": "Gain a Unique Item From a Master Clue",
-            "description": "Gain a unique item from a Master Clue Scroll Reward Casket.",
-            "complete": false
-        },
+            "description": "Gain a unique item from a Master Clue Scroll Reward Casket."
+        ,"complete": false},
         {
             "name": "Gain 35 Unique Items From Beginner Clues",
-            "description": "Gain 35 unique items from Beginner Clue Scroll Reward Caskets.",
-            "complete": false
-        },
+            "description": "Gain 35 unique items from Beginner Clue Scroll Reward Caskets."
+        ,"complete": false},
         {
             "name": "Gain 35 Unique Items From Easy Clues",
-            "description": "Gain 35 unique items from Easy Clue Scroll Reward Caskets.",
-            "complete": false
-        },
+            "description": "Gain 35 unique items from Easy Clue Scroll Reward Caskets."
+        ,"complete": false},
         {
             "name": "Gain 25 Unique Items From Medium Clues",
-            "description": "Gain 25 unique items from Medium Clue Scroll Reward Caskets.",
-            "complete": false
-        },
+            "description": "Gain 25 unique items from Medium Clue Scroll Reward Caskets."
+        ,"complete": false},
         {
             "name": "Gain 20 Unique Items From Hard Clues",
-            "description": "Gain 20 unique items from Hard Clue Scroll Reward Caskets.",
-            "complete": false
-        },
+            "description": "Gain 20 unique items from Hard Clue Scroll Reward Caskets."
+        ,"complete": false},
         {
             "name": "Gain 10 Unique Items From Elite Clues",
-            "description": "Gain 10 unique items from Elite Clue Scroll Reward Caskets.",
-            "complete": false
-        },
+            "description": "Gain 10 unique items from Elite Clue Scroll Reward Caskets."
+        ,"complete": false},
         {
             "name": "Gain 10 Unique Items From Master Clues",
-            "description": "Gain 10 unique items from Master Clue Scroll Reward Caskets.",
-            "complete": false
-        },
+            "description": "Gain 10 unique items from Master Clue Scroll Reward Caskets."
+        ,"complete": false},
         {
             "name": "Fill 10 Beginner Clue Collection Log Slots",
-            "description": "Fill 10 slots in the Beginner Clue section of the Collection Log.",
-            "complete": false
-        },
+            "description": "Fill 10 slots in the Beginner Clue section of the Collection Log."
+        ,"complete": false},
         {
             "name": "Fill 20 Easy Clue Collection Log Slots",
-            "description": "Fill 20 slots in the Easy Clue section of the Collection Log.",
-            "complete": false
-        },
+            "description": "Fill 20 slots in the Easy Clue section of the Collection Log."
+        ,"complete": false},
         {
             "name": "Fill 20 Medium Clue Collection Log Slots",
-            "description": "Fill 20 slots in the Medium Clue section of the Collection Log.",
-            "complete": false
-        },
+            "description": "Fill 20 slots in the Medium Clue section of the Collection Log."
+        ,"complete": false},
         {
             "name": "Fill 15 Hard Clue Collection Log Slots",
-            "description": "Fill 15 slots in the Hard Clue section of the Collection Log.",
-            "complete": false
-        },
+            "description": "Fill 15 slots in the Hard Clue section of the Collection Log."
+        ,"complete": false},
         {
             "name": "Fill 10 Elite Clue Collection Log Slots",
-            "description": "Fill 10 slots in the Elite Clue section of the Collection Log.",
-            "complete": false
-        },
+            "description": "Fill 10 slots in the Elite Clue section of the Collection Log."
+        ,"complete": false},
         {
             "name": "Fill 5 Master Clue Collection Log Slots",
-            "description": "Fill 5 slots in the Master Clue section of the Collection Log.",
-            "complete": false
-        },
+            "description": "Fill 5 slots in the Master Clue section of the Collection Log."
+        ,"complete": false},
         {
             "name": "Equip a Full Gilded or Trimmed Wizard Set",
-            "description": "Equip either a full set of gilded Wizard robes or a full set of trimmed Wizard robes.",
-            "complete": false
-        },
+            "description": "Equip either a full set of gilded Wizard robes or a full set of trimmed Wizard robes."
+        ,"complete": false},
         {
             "name": "Equip a Full Gilded Set",
-            "description": "Equip either a full set of gilded Rune armour or a full set of gilded Dragonhide armour.",
-            "complete": false
-        },
+            "description": "Equip either a full set of gilded Rune armour or a full set of gilded Dragonhide armour."
+        ,"complete": false},
         {
             "name": "Equip a Full Vestment Set",
-            "description": "Equip a full set of Vestment robes with all pieces aligned to the same God.",
-            "complete": false
-        },
+            "description": "Equip a full set of Vestment robes with all pieces aligned to the same God."
+        ,"complete": false},
         {
             "name": "Equip a Full God Rune Set",
-            "description": "Equip a full set of God Rune armour (helmet, body and legs) with all pieces aligned to the same God.",
-            "complete": false
-        },
+            "description": "Equip a full set of God Rune armour (helmet, body and legs) with all pieces aligned to the same God."
+        ,"complete": false},
         {
             "name": "Equip a Full God Dragonhide Set",
-            "description": "Equip a full set of God Dragonhide armour (does not require boots or shield) with all pieces aligned to the same God.",
-            "complete": false
-        },
+            "description": "Equip a full set of God Dragonhide armour (does not require boots or shield) with all pieces aligned to the same God."
+        ,"complete": false},
         {
             "name": "Equip an Ornament Kit Item",
-            "description": "Equip any item that has an Ornament Kit attached to it.",
-            "complete": false
-        },
+            "description": "Equip any item that has an Ornament Kit attached to it."
+        ,"complete": false},
         {
             "name": "Receive Some Ranger Boots under 600 clue completions",
-            "description": "Equip a pair of Ranger Boots.",
-            "complete": false
-        },
+            "description": "Equip a pair of Ranger Boots."
+        ,"complete": false},
         {
             "name": "Equip a Full Obsidian Armour Set",
-            "description": "Equip a full set of Obsidian armour.",
-            "complete": false
-        },
+            "description": "Equip a full set of Obsidian armour."
+        ,"complete": false},
         {
             "name": "Equip Some Dragon Platelegs or a Dragon Plateskirt",
-            "description": "Equip either some Dragon Platelegs or a Dragon Plateskirt.",
-            "complete": false
-        },
+            "description": "Equip either some Dragon Platelegs or a Dragon Plateskirt."
+        ,"complete": false},
         {
             "name": "Equip an Obsidian Cape",
-            "description": "Equip an Obsidian Cape.",
-            "complete": false
-        },
+            "description": "Equip an Obsidian Cape."
+        ,"complete": false},
         {
             "name": "Equip a Toktz-Ket-Xil",
-            "description": "Equip a Toktz-Ket-Xil.",
-            "complete": false
-        },
+            "description": "Equip a Toktz-Ket-Xil."
+        ,"complete": false},
         {
             "name": "Equip a Tzhaar-Ket-Om",
-            "description": "Equip a Tzhaar-Ket-Om.",
-            "complete": false
-        },
+            "description": "Equip a Tzhaar-Ket-Om."
+        ,"complete": false},
         {
             "name": "Equip a Toktz-Xil-Ak",
-            "description": "Equip a Toktz-Xil-Ak.",
-            "complete": false
-        },
+            "description": "Equip a Toktz-Xil-Ak."
+        ,"complete": false},
         {
             "name": "Equip a Toktz-Xil-Ek",
-            "description": "Equip a Toktz-Xil-Ek.",
-            "complete": false
-        },
+            "description": "Equip a Toktz-Xil-Ek."
+        ,"complete": false},
         {
             "name": "Equip a Full Graceful Outfit",
-            "description": "Equip a full set of graceful outfit.",
-            "complete": false
-        },
+            "description": "Equip a full set of graceful outfit."
+        ,"complete": false},
         {
             "name": "Equip a Full Rogue Outfit",
-            "description": "Equip a full set of rogue gear.",
-            "complete": false
-        },
+            "description": "Equip a full set of rogue gear."
+        ,"complete": false},
         {
             "name": "Equip a Full Prospector Outfit",
-            "description": "Equip a full set of prospector gear.",
-            "complete": false
-        },
+            "description": "Equip a full set of prospector gear."
+        ,"complete": false},
         {
             "name": "Equip a Dragon Defender",
-            "description": "Equip a dragon defender.",
-            "complete": false
-        },
+            "description": "Equip a dragon defender."
+        ,"complete": false},
         {
             "name": "Defeat K'ril Tsutsaroth",
-            "description": "Defeat K'ril Tsutsaroth in the God Wars Dungeon.",
-            "complete": false
-        },
+            "description": "Defeat K'ril Tsutsaroth in the God Wars Dungeon."
+        ,"complete": false},
         {
             "name": "Defeat General Graardor",
-            "description": "Defeat General Graardor in the God Wars Dungeon.",
-            "complete": false
-        },
+            "description": "Defeat General Graardor in the God Wars Dungeon."
+        ,"complete": false},
         {
             "name": "Defeat Kree'arra",
-            "description": "Defeat Kree'arra in the God Wars Dungeon.",
-            "complete": false
-        },
+            "description": "Defeat Kree'arra in the God Wars Dungeon."
+        ,"complete": false},
         {
             "name": "Defeat Commander Zilyana",
-            "description": "Defeat Commander Zilyana in the God Wars Dungeon.",
-            "complete": false
-        },
+            "description": "Defeat Commander Zilyana in the God Wars Dungeon."
+        ,"complete": false},
         {
             "name": "Equip a Pair of Dragon Boots",
-            "description": "Equip a pair of dragon boots.",
-            "complete": false
-        },
+            "description": "Equip a pair of dragon boots."
+        ,"complete": false},
         {
             "name": "Equip a Full Void Knight Set",
-            "description": "Equip a full set of Void Knight equipment.",
-            "complete": false
-        },
+            "description": "Equip a full set of Void Knight equipment."
+        ,"complete": false},
         {
             "name": "Build a Gilded Altar",
-            "description": "Build a gilded altar in a Chapel in your player-owned house.",
-            "complete": false
-        },
+            "description": "Build a gilded altar in a Chapel in your player-owned house."
+        ,"complete": false},
         {
             "name": "Complete the Rellekka Agility Course",
-            "description": "Complete a lap of the Rellekka Rooftop Course.",
-            "complete": false
-        },
+            "description": "Complete a lap of the Rellekka Rooftop Course."
+        ,"complete": false},
         {
             "name": "Defeat Vorkath",
-            "description": "Defeat Vorkath on Ungael.",
-            "complete": false
-        },
+            "description": "Defeat Vorkath on Ungael."
+        ,"complete": false},
         {
             "name": "Equip an Ava's Assembler",
-            "description": "Equip an ava's assembler.",
-            "complete": false
-        },
+            "description": "Equip an ava's assembler."
+        ,"complete": false},
         {
             "name": "Defeat Vorkath in 2:00",
-            "description": "Defeat Vorkath on Ungael in 2:00 or less.",
-            "complete": false
-        },
+            "description": "Defeat Vorkath on Ungael in 2:00 or less."
+        ,"complete": false},
         {
             "name": "Equip a Berserker Ring",
-            "description": "Equip a berserker ring.",
-            "complete": false
-        },
+            "description": "Equip a berserker ring."
+        ,"complete": false},
         {
             "name": "Equip a Warrior Ring",
-            "description": "Equip a warrior ring.",
-            "complete": false
-        },
+            "description": "Equip a warrior ring."
+        ,"complete": false},
         {
             "name": "Equip a Seers Ring",
-            "description": "Equip a seers ring.",
-            "complete": false
-        },
+            "description": "Equip a seers ring."
+        ,"complete": false},
         {
             "name": "Equip an Archers Ring",
-            "description": "Equip an archers ring.",
-            "complete": false
-        },
+            "description": "Equip an archers ring."
+        ,"complete": false},
         {
             "name": "Equip a Mud Battlestaff",
-            "description": "Equip a mud battlestaff.",
-            "complete": false
-        },
+            "description": "Equip a mud battlestaff."
+        ,"complete": false},
         {
             "name": "Equip a Seercull",
-            "description": "Equip a seercull.",
-            "complete": false
-        },
+            "description": "Equip a seercull."
+        ,"complete": false},
         {
             "name": "Equip a Leaf-Bladed Battleaxe",
-            "description": "Equip a leaf-bladed battleaxe in The Fremennik Provinces.",
-            "complete": false
-        },
+            "description": "Equip a leaf-bladed battleaxe in The Fremennik Provinces."
+        ,"complete": false},
         {
             "name": "Equip a Full Skeletal Armour Set",
-            "description": "Equip a full set of skeletal armour.",
-            "complete": false
-        },
+            "description": "Equip a full set of skeletal armour."
+        ,"complete": false},
         {
             "name": "Equip a Full Spined Armour Set",
-            "description": "Equip a full set of spined armour.",
-            "complete": false
-        },
+            "description": "Equip a full set of spined armour."
+        ,"complete": false},
         {
             "name": "Equip a Full Rockshell Armour Set",
-            "description": "Equip a full set of rock-shell armour.",
-            "complete": false
-        },
+            "description": "Equip a full set of rock-shell armour."
+        ,"complete": false},
         {
             "name": "Complete the Seers' Village Agility Course",
-            "description": "Complete a lap of the Seers' Village Rooftop Course.",
-            "complete": false
-        },
+            "description": "Complete a lap of the Seers' Village Rooftop Course."
+        ,"complete": false},
         {
             "name": "Equip a Full Angler's Outfit",
-            "description": "Equip a full set of angler gear.",
-            "complete": false
-        },
+            "description": "Equip a full set of angler gear."
+        ,"complete": false},
         {
             "name": "Defeat a Demonic Gorilla",
-            "description": "Defeat a demonic gorilla in the Crash Site Cavern.",
-            "complete": false
-        },
+            "description": "Defeat a demonic gorilla in the Crash Site Cavern."
+        ,"complete": false},
         {
             "name": "Equip a Fighter Torso",
-            "description": "Equip a fighter torso.",
-            "complete": false
-        },
+            "description": "Equip a fighter torso."
+        ,"complete": false},
         {
             "name": "Defeat a Cave Kraken",
-            "description": "Defeat a cave kraken in Kraken Cove.",
-            "complete": false
-        },
+            "description": "Defeat a cave kraken in Kraken Cove."
+        ,"complete": false},
         {
             "name": "Equip a Trident of the Seas",
-            "description": "Equip a trident of the seas.",
-            "complete": false
-        },
-        {
-            "name": "Use the Piety Prayer",
-            "description": "Use the Piety prayer.",
-            "complete": false
-        },
+            "description": "Equip a trident of the seas."
+        ,"complete": false},
         {
             "name": "Enter the Myths' Guild",
-            "description": "Enter the Myths' Guild.",
-            "complete": false
-        },
-        {
-            "name": "Complete the Hard Ardougne Diary",
-            "description": "Complete all of the hard tasks in the Ardougne Achievement Diary.",
-            "complete": false
-        },
+            "description": "Enter the Myths' Guild."
+        ,"complete": false},
         {
             "name": "Complete Room 6 of Pyramid Plunder",
-            "description": "Search the Golden Chest in Room 6 of Pyramid Plunder in Sophanem.",
-            "complete": false
-        },
+            "description": "Search the Golden Chest in Room 6 of Pyramid Plunder in Sophanem."
+        ,"complete": false},
         {
             "name": "Complete Room 7 of Pyramid Plunder",
-            "description": "Search the Golden Chest in Room 7 of Pyramid Plunder in Sophanem.",
-            "complete": false
-        },
-        {
-            "name": "Cast Ice Burst",
-            "description": "Cast the Ice Burst spell.",
-            "complete": false
-        },
-        {
-            "name": "Cast Ice Blitz",
-            "description": "Cast the Ice Blitz spell.",
-            "complete": false
-        },
-        {
-            "name": "Cast Smoke Barrage",
-            "description": "Cast the Smoke Barrage spell.",
-            "complete": false
-        },
-        {
-            "name": "Cast Shadow Barrage",
-            "description": "Cast the Shadow Barrage spell.",
-            "complete": false
-        },
+            "description": "Search the Golden Chest in Room 7 of Pyramid Plunder in Sophanem."
+        ,"complete": false},
         {
             "name": "Equip a Dragon 2H Sword",
-            "description": "Equip a Dragon 2h sword in the Kharidian Desert.",
-            "complete": false
-        },
+            "description": "Equip a Dragon 2h sword in the Kharidian Desert."
+        ,"complete": false},
         {
             "name": "Equip a Piece of the Infinity Robe Set",
-            "description": "Equip any piece of the Infinity robe set.",
-            "complete": false
-        },
-        {
-            "name": "Cast Paddewwa Teleport",
-            "description": "Cast the Paddewwa Teleport spell.",
-            "complete": false
-        },
+            "description": "Equip any piece of the Infinity robe set."
+        ,"complete": false},
         {
             "name": "Have Zahur Make 1,000 Unfinished Potions At Once",
-            "description": "Have Zahur make 1,000 Unfinished Potions in one go.",
-            "complete": false
-        },
+            "description": "Have Zahur make 1,000 Unfinished Potions in one go."
+        ,"complete": false},
         {
             "name": "Complete Floor 3 of the Hallowed Sepulchre",
-            "description": "Complete floor 3 of the Hallowed Sepulchre in Darkmeyer.",
-            "complete": false
-        },
+            "description": "Complete floor 3 of the Hallowed Sepulchre in Darkmeyer."
+        ,"complete": false},
         {
             "name": "Complete Floor 4 of the Hallowed Sepulchre",
-            "description": "Complete floor 4 of the Hallowed Sepulchre in Darkmeyer.",
-            "complete": false
-        },
+            "description": "Complete floor 4 of the Hallowed Sepulchre in Darkmeyer."
+        ,"complete": false},
         {
             "name": "Complete the Hallowed Sepulchre in 8:00",
-            "description": "Complete the Hallowed Sepulchre in Darkmeyer in 8:00 or less.",
-            "complete": false
-        },
+            "description": "Complete the Hallowed Sepulchre in Darkmeyer in 8:00 or less."
+        ,"complete": false},
         {
             "name": "Purchase a Reward From the Hallowed Sepulchre",
-            "description": "Purchase a reward from the Hallowed Sepulchre.",
-            "complete": false
-        },
+            "description": "Purchase a reward from the Hallowed Sepulchre."
+        ,"complete": false},
         {
             "name": "Obtain Every Hallowed Tool",
-            "description": "Obtain all four Hallowed Tools from the Hallowed Sepulchre.",
-            "complete": false
-        },
+            "description": "Obtain all four Hallowed Tools from the Hallowed Sepulchre."
+        ,"complete": false},
         {
             "name": "Defeat a Gargoyle in Morytania",
-            "description": "Defeat a Gargoyle in Morytania.",
-            "complete": false
-        },
+            "description": "Defeat a Gargoyle in Morytania."
+        ,"complete": false},
         {
             "name": "Defeat an Abyssal Demon in Morytania",
-            "description": "Defeat an Abyssal Demon in Morytania.",
-            "complete": false
-        },
+            "description": "Defeat an Abyssal Demon in Morytania."
+        ,"complete": false},
         {
             "name": "Defeat the Grotesque Guardians 100 Times",
-            "description": "Defeat the Grotesque Guardians at the Slayer Tower 100 times.",
-            "complete": false
-        },
+            "description": "Defeat the Grotesque Guardians at the Slayer Tower 100 times."
+        ,"complete": false},
         {
             "name": "Equip any Full Barrows Armour Set",
-            "description": "Equip a full set of any Barrows armour.",
-            "complete": false
-        },
+            "description": "Equip a full set of any Barrows armour."
+        ,"complete": false},
         {
             "name": "Equip a Granite Hammer or Granite Ring",
-            "description": "Equip either a granite hammer or a granite ring.",
-            "complete": false
-        },
+            "description": "Equip either a granite hammer or a granite ring."
+        ,"complete": false},
         {
             "name": "Defeat the Grotesque Guardians",
-            "description": "Defeat the Grotesque Guardians at the Slayer Tower.",
-            "complete": false
-        },
+            "description": "Defeat the Grotesque Guardians at the Slayer Tower."
+        ,"complete": false},
         {
             "name": "Check a grown Crystal Tree",
-            "description": "Check the health of a Crystal tree you've grown in Prifddinas.",
-            "complete": false
-        },
+            "description": "Check the health of a Crystal tree you've grown in Prifddinas."
+        ,"complete": false},
         {
             "name": "Catch a Crystal Impling",
-            "description": "Catch a Crystal impling in Prifddinas.",
-            "complete": false
-        },
+            "description": "Catch a Crystal impling in Prifddinas."
+        ,"complete": false},
         {
             "name": "Complete the Prifddinas Agility Course",
-            "description": "Complete a lap of the Prifddinas Agility Course.",
-            "complete": false
-        },
+            "description": "Complete a lap of the Prifddinas Agility Course."
+        ,"complete": false},
         {
             "name": "Complete the Prifddinas Agility Course in 1:10",
-            "description": "Complete a lap of the Prifddinas Agility Course in 1:10 or less.",
-            "complete": false
-        },
+            "description": "Complete a lap of the Prifddinas Agility Course in 1:10 or less."
+        ,"complete": false},
         {
             "name": "Craft a Piece of Crystal Armour",
-            "description": "Use a singing bowl to craft any piece of crystal armour.",
-            "complete": false
-        },
+            "description": "Use a singing bowl to craft any piece of crystal armour."
+        ,"complete": false},
         {
             "name": "Complete the Gauntlet",
-            "description": "Complete the Gauntlet in Prifddinas.",
-            "complete": false
-        },
+            "description": "Complete the Gauntlet in Prifddinas."
+        ,"complete": false},
         {
             "name": "Defeat Zalcano",
-            "description": "Defeat Zalcano in Prifddinas.",
-            "complete": false
-        },
+            "description": "Defeat Zalcano in Prifddinas."
+        ,"complete": false},
         {
             "name": "Defeat Zulrah",
-            "description": "Defeat Zulrah at the Poison Waste.",
-            "complete": false
-        },
+            "description": "Defeat Zulrah at the Poison Waste."
+        ,"complete": false},
         {
             "name": "Equip a Dark Bow",
-            "description": "Equip a dark bow.",
-            "complete": false
-        },
+            "description": "Equip a dark bow."
+        ,"complete": false},
         {
             "name": "Defeat Zulrah in 1:30",
-            "description": "Defeat Zulrah at the Poison Waste in 1:30 or less.",
-            "complete": false
-        },
+            "description": "Defeat Zulrah at the Poison Waste in 1:30 or less."
+        ,"complete": false},
         {
             "name": "Complete the Gauntlet in 8:00",
-            "description": "Complete the Gauntlet in Prifddinas in 8:00 or less.",
-            "complete": false
-        },
+            "description": "Complete the Gauntlet in Prifddinas in 8:00 or less."
+        ,"complete": false},
         {
             "name": "Equip a Crystal Bow",
-            "description": "Equip a crystal bow.",
-            "complete": false
-        },
+            "description": "Equip a crystal bow."
+        ,"complete": false},
         {
             "name": "Equip a Crystal Shield",
-            "description": "Equip a crystal shield.",
-            "complete": false
-        },
+            "description": "Equip a crystal shield."
+        ,"complete": false},
         {
             "name": "Equip a Crystal Halberd",
-            "description": "Equip a crystal halberd.",
-            "complete": false
-        },
+            "description": "Equip a crystal halberd."
+        ,"complete": false},
         {
             "name": "Defeat Venenatis",
-            "description": "Defeat Venenatis in the Wilderness.",
-            "complete": false
-        },
+            "description": "Defeat Venenatis in the Wilderness."
+        ,"complete": false},
         {
             "name": "Defeat Callisto",
-            "description": "Defeat Callisto in the Wilderness.",
-            "complete": false
-        },
+            "description": "Defeat Callisto in the Wilderness."
+        ,"complete": false},
         {
             "name": "Defeat Vet'ion",
-            "description": "Defeat Vet'ion in the Wilderness.",
-            "complete": false
-        },
+            "description": "Defeat Vet'ion in the Wilderness."
+        ,"complete": false},
         {
             "name": "Defeat the King Black Dragon",
-            "description": "Defeat the King Black Dragon in the Wilderness.",
-            "complete": false
-        },
+            "description": "Defeat the King Black Dragon in the Wilderness."
+        ,"complete": false},
         {
             "name": "Equip a Dragon Pickaxe",
-            "description": "Equip a dragon pickaxe.",
-            "complete": false
-        },
+            "description": "Equip a dragon pickaxe."
+        ,"complete": false},
         {
             "name": "Equip an Enchanted Slayer Staff",
-            "description": "Equip an Enchanted Slayer Staff.",
-            "complete": false
-        },
+            "description": "Equip an Enchanted Slayer Staff."
+        ,"complete": false},
         {
             "name": "Trade With the Emblem Trader",
-            "description": "Trade an ancient medallion, an ancient effigy or an ancient relic with the Emblem Trader in the Forinthry Dungeon.",
-            "complete": false
-        },
+            "description": "Trade an ancient medallion, an ancient effigy or an ancient relic with the Emblem Trader in the Forinthry Dungeon."
+        ,"complete": false},
         {
             "name": "Imbue a God Cape",
-            "description": "Imbue either a Saradomin cape, a Guthix cape or Zamorak cape.",
-            "complete": false
-        },
-        {
-            "name": "Complete the Hard Wilderness Diary",
-            "description": "Complete all of the hard tasks in the Wilderness Achievement Diary.",
-            "complete": false
-        },
+            "description": "Imbue either a Saradomin cape, a Guthix cape or Zamorak cape."
+        ,"complete": false},
         {
             "name": "Equip a Piece of the Dagon'Hai Set",
-            "description": "Equip any piece of the Dagon'hai robes set.",
-            "complete": false
-        },
+            "description": "Equip any piece of the Dagon'hai robes set."
+        ,"complete": false},
         {
             "name": "Complete a Hydra Task",
-            "description": "Receive and complete a Hydra slayer task.",
-            "complete": false
-        },
+            "description": "Receive and complete a Hydra slayer task."
+        ,"complete": false},
         {
             "name": "2500 Lizardmen Shaman Kills",
-            "description": "Help the Shayzien house by killing 2500 Lizardmen shamans.",
-            "complete": false
-        },
+            "description": "Help the Shayzien house by killing 2500 Lizardmen shamans."
+        ,"complete": false},
         {
             "name": "5000 Lizardmen Shaman Kills",
-            "description": "Help the Shayzien house by killing 5000 Lizardmen shamans.",
-            "complete": false
-        },
+            "description": "Help the Shayzien house by killing 5000 Lizardmen shamans."
+        ,"complete": false},
         {
             "name": "500 Sarachnis Kills",
-            "description": "Kill Sarachnis in the Forthos Dungeon 500 times.",
-            "complete": false
-        },
+            "description": "Kill Sarachnis in the Forthos Dungeon 500 times."
+        ,"complete": false},
         {
             "name": "10 Skotizo Kills",
-            "description": "Kill Skotizo beneath the Catacombs of Kourend 10 times.",
-            "complete": false
-        },
+            "description": "Kill Skotizo beneath the Catacombs of Kourend 10 times."
+        ,"complete": false},
         {
             "name": "1 Chambers of Xeric",
-            "description": "Complete the Chambers of Xeric.",
-            "complete": false
-        },
+            "description": "Complete the Chambers of Xeric."
+        ,"complete": false},
         {
             "name": "25 Chambers of Xeric",
-            "description": "Complete the Chambers of Xeric 25 times.",
-            "complete": false
-        },
+            "description": "Complete the Chambers of Xeric 25 times."
+        ,"complete": false},
         {
             "name": "50 Chambers of Xeric",
-            "description": "Complete the Chambers of Xeric 50 times.",
-            "complete": false
-        },
+            "description": "Complete the Chambers of Xeric 50 times."
+        ,"complete": false},
         {
             "name": "75 Chambers of Xeric",
-            "description": "Complete the Chambers of Xeric 75 times.",
-            "complete": false
-        },
+            "description": "Complete the Chambers of Xeric 75 times."
+        ,"complete": false},
         {
             "name": "100 Chambers of Xeric",
-            "description": "Complete the Chambers of Xeric 100 times.",
-            "complete": false
-        },
+            "description": "Complete the Chambers of Xeric 100 times."
+        ,"complete": false},
         {
             "name": "1 CM Chambers of Xeric",
-            "description": "Complete the Chambers of Xeric Challenge Mode.",
-            "complete": false
-        },
+            "description": "Complete the Chambers of Xeric Challenge Mode."
+        ,"complete": false},
         {
             "name": "10 CM Chambers of Xeric",
-            "description": "Complete the Chambers of Xeric Challenge Mode 10 times.",
-            "complete": false
-        },
+            "description": "Complete the Chambers of Xeric Challenge Mode 10 times."
+        ,"complete": false},
         {
             "name": "Receive 1 Chambers of Xeric Unique",
-            "description": "Receive a unique drop from completing the Chambers of Xeric.",
-            "complete": false
-        },
+            "description": "Receive a unique drop from completing the Chambers of Xeric."
+        ,"complete": false},
         {
             "name": "Equip a Dragon Warhammer",
-            "description": "Obtain and equip a Dragon warhammer.",
-            "complete": false
-        },
+            "description": "Obtain and equip a Dragon warhammer."
+        ,"complete": false},
         {
             "name": "Equip Boots of Brimstone",
-            "description": "Obtain and equip a pair of Boots of brimstone.",
-            "complete": false
-        },
+            "description": "Obtain and equip a pair of Boots of brimstone."
+        ,"complete": false},
         {
             "name": "Equip a Dust Battlestaff",
-            "description": "Obtain and equip a Dust battlestaff.",
-            "complete": false
-        },
+            "description": "Obtain and equip a Dust battlestaff."
+        ,"complete": false},
         {
             "name": "Equip a Mist Battlestaff",
-            "description": "Obtain and equip a Mist battlestaff.",
-            "complete": false
-        },
-        {
-            "name": "Kourend and Kebos Hard Diary Tasks",
-            "description": "Complete all tasks in the hard tier of the Kourend and Kebos achievement diary.",
-            "complete": false
-        },
+            "description": "Obtain and equip a Mist battlestaff."
+        ,"complete": false},
         {
             "name": "Open 100 Grubby Chests",
-            "description": "Open the grubby chest in the Forthos Dungeon 100 times.",
-            "complete": false
-        },
+            "description": "Open the grubby chest in the Forthos Dungeon 100 times."
+        ,"complete": false},
         {
             "name": "Equip the Farmer's Outfit",
-            "description": "Equip a full set of the farmer's outfit, purchased from the Tithe Farm minigame.",
-            "complete": false
-        },
+            "description": "Equip a full set of the farmer's outfit, purchased from the Tithe Farm minigame."
+        ,"complete": false},
         {
             "name": "Equip the Angler's Outfit",
-            "description": "Equip a full set of the angler's outfit, purchased from Alry on Molch Island.",
-            "complete": false
-        },
+            "description": "Equip a full set of the angler's outfit, purchased from Alry on Molch Island."
+        ,"complete": false},
         {
             "name": "Equip the Pyromancer's Garb",
-            "description": "Equip a full set of pyromancer's garb, rewarded from the Wintertodt.",
-            "complete": false
-        },
+            "description": "Equip a full set of pyromancer's garb, rewarded from the Wintertodt."
+        ,"complete": false},
         {
             "name": "1000 Wintertodt Kills",
-            "description": "Help the pyromancers subdue the Wintertodt 1000 times.",
-            "complete": false
-        },
+            "description": "Help the pyromancers subdue the Wintertodt 1000 times."
+        ,"complete": false},
         {
             "name": "1500 Wintertodt Kills",
-            "description": "Help the pyromancers subdue the Wintertodt 1500 times.",
-            "complete": false
-        },
+            "description": "Help the pyromancers subdue the Wintertodt 1500 times."
+        ,"complete": false},
         {
             "name": "1000 Sarachnis Kills",
-            "description": "Kill Sarachnis in the Forthos Dungeon 1000 times.",
-            "complete": false
-        },
+            "description": "Kill Sarachnis in the Forthos Dungeon 1000 times."
+        ,"complete": false},
         {
             "name": "1500 Sarachnis Kills",
-            "description": "Kill Sarachnis in the Forthos Dungeon 1500 times.",
-            "complete": false
-        },
+            "description": "Kill Sarachnis in the Forthos Dungeon 1500 times."
+        ,"complete": false},
         {
             "name": "250 Alchemical Hydra Kills",
-            "description": "Kill the Alchemical Hydra in Mount Karuulm 250 times.",
-            "complete": false
-        },
+            "description": "Kill the Alchemical Hydra in Mount Karuulm 250 times."
+        ,"complete": false},
         {
             "name": "500 Alchemical Hydra Kills",
-            "description": "Kill the Alchemical Hydra in Mount Karuulm 500 times.",
-            "complete": false
-        },
+            "description": "Kill the Alchemical Hydra in Mount Karuulm 500 times."
+        ,"complete": false},
         {
             "name": "1000 Alchemical Hydra Kills",
-            "description": "Kill the Alchemical Hydra in Mount Karuulm 1000 times.",
-            "complete": false
-        },
+            "description": "Kill the Alchemical Hydra in Mount Karuulm 1000 times."
+        ,"complete": false},
         {
             "name": "1500 Alchemical Hydra Kills",
-            "description": "Kill the Alchemical Hydra in Mount Karuulm 1500 times.",
-            "complete": false
-        },
+            "description": "Kill the Alchemical Hydra in Mount Karuulm 1500 times."
+        ,"complete": false},
         {
             "name": "Equip Ferocious Gloves",
-            "description": "Obtain and equip a pair of Ferocious gloves.",
-            "complete": false
-        },
+            "description": "Obtain and equip a pair of Ferocious gloves."
+        ,"complete": false},
         {
             "name": "Equip the quest cape",
-            "description": "Complete all quests and equip the quest cape",
-            "complete": false
-        },
+            "description": "Complete all quests and equip the quest cape"
+        ,"complete": false},
         {
             "name": "Do 75% of the achievements",
-            "description": "",
-            "complete": false
-        },
-        {
-            "name": "Receive the Seren's Tome",
-            "description": "",
-            "complete": false
-        },
+            "description": "Complete up to 75% of all the achievements"
+        ,"complete": false},
         {
             "name": "Receive the Seren's Tome Under 2000 killcount",
-            "description": "",
-            "complete": false
-        },
+            "description": "Receive the Seren's Tome Under 2000 killcount"
+        ,"complete": false},
         {
             "name": "Receive the salve ring (ei) under 700 killcount",
-            "description": "",
-            "complete": false
-        },
+            "description": "Receive the salve ring (ei) under 700 killcount"
+        ,"complete": false},
         {
             "name": "Defeat 100 Fragments of Seren",
-            "description": "",
-            "complete": false
-        },
+            "description": "Kill the Fragment of Seren 100 times"
+        ,"complete": false},
         {
             "name": "Defeat 250 Fragments of Seren",
-            "description": "",
-            "complete": false
-        },
-        {
-            "name": "Defeat 500 Fragments of Seren",
-            "description": "",
-            "complete": false
-        },
-        {
-            "name": "Defeat 1000 Fragments of Seren",
-            "description": "",
-            "complete": false
-        },
+            "description": "Kill the Fragment of Seren 250 times"
+        ,"complete": false},
         {
             "name": "Receive the Dragon Warhammer under 10000 killcount",
-            "description": "",
-            "complete": false
-        },
+            "description": "Receive the Dragon Warhammer under 10000 killcount"
+        ,"complete": false},
         {
             "name": "Receive the Hydra's claw without dying",
-            "description": "",
-            "complete": false
-        },
+            "description": "Receive the Hydra's claw without dying"
+        ,"complete": false},
         {
             "name": "Receive a Basilisk jaw in under 2000 kills",
-            "description": "",
-            "complete": false
-        },
+            "description": "Receive a Basilisk jaw in under 2000 kills"
+        ,"complete": false},
         {
             "name": "Defeat Hydra in under 1:30",
-            "description": "",
-            "complete": false
-        },
+            "description": "Kill the Alchemical hydra in under 1 minute and 30 seconds"
+        ,"complete": false},
         {
             "name": "Defeat the bloodbunny",
-            "description": "",
+            "description": "Kill the bloodbunny in Prifddinas"
+        ,"complete": false},
+        {
+            "name": "Defeat Vanstrom Klause",
+            "description": "Kill Vanstrom Klause"
+        ,"complete": false},
+        {
+            "name": "Receive any unique from Vanstrom Klause",
+            "description": "Receive any unique from Vanstrom Klause"
+        ,"complete": false},
+        {
+            "name": "Recieve a Zenyte shard from Demonic Gorillas",
+            "description": "Recieve a Zenyte shard from Demonic Gorillas"
+        ,"complete": false},
+        {
+            "name": "Craft any ballista",
+            "description": "Craft any ballista"
+        ,"complete": false},
+        {
+            "name": "Equip a firecape",
+            "description": "Equip a firecape"
+        ,"complete": false},
+        {
+            "name": "Sacrifice a firecape",
+            "description": "Sacrifice a firecape to gain access to the inner level of Tzhaar city"
+        ,"complete": false},
+        {
+            "name": "Complete the Fight Caves 5 Times",
+            "description": "Complete the Fight Caves 5 Times"
+        ,"complete": false},
+        {
+            "name": "Complete the Fight Caves 15 Times",
+            "description": "Complete the Fight Caves 15 Times"
+        ,"complete": false},
+        {
+            "name": "Complete the Fight Caves 30 Times",
+            "description": "Complete the Fight Caves 30 Times"
+        ,"complete": false},
+        {
+            "name": "Achieve Your First Level 90",
+            "description": "Reach level 90 in any skill."
+        ,"complete": false},
+        {
+            "name": "Achieve Your First Level 95",
+            "description": "Reach level 95 in any skill."
+        ,"complete": false},
+        {
+            "name": "Reach Total Level 2000",
+            "description": "Reach a Total Level of 2000."
+        ,"complete": false},
+        {
+            "name": "Reach Total Level 2100",
+            "description": "Reach a Total Level of 2100."
+        ,"complete": false},
+        {
+            "name": "Reach Total Level 2200",
+            "description": "Reach a Total Level of 2200."
+        ,"complete": false},
+        {
+            "name": "Reach Base Level 80",
+            "description": "Reach level 80 in every skill."
+        ,"complete": false},
+        {
+            "name": "Reach Base Level 90",
+            "description": "Reach level 90 in every skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Attack",
+            "description": "Reach level 99 in your Attack skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Attack XP",
+            "description": "Obtain 25 million experience in your Attack skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Strength",
+            "description": "Reach level 99 in your Strength skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Strength XP",
+            "description": "Obtain 25 million experience in your Strength skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Defence",
+            "description": "Reach level 99 in your Defence skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Defence XP",
+            "description": "Obtain 25 million experience in your Defence skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Ranged",
+            "description": "Reach level 99 in your Ranged skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Ranged XP",
+            "description": "Obtain 25 million experience in your Ranged skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Prayer",
+            "description": "Reach level 99 in your Prayer skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Prayer XP",
+            "description": "Obtain 25 million experience in your Prayer skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Magic",
+            "description": "Reach level 99 in your Magic skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Magic XP",
+            "description": "Obtain 25 million experience in your Magic skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Runecraft",
+            "description": "Reach level 99 in your Runecraft skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Runecraft XP",
+            "description": "Obtain 25 million experience in your Runecraft skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Construction",
+            "description": "Reach level 99 in your Construction skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Construction XP",
+            "description": "Obtain 25 million experience in your Construction skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Hitpoints",
+            "description": "Reach level 99 in your Hitpoints skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Hitpoints XP",
+            "description": "Obtain 25 million experience in your Hitpoints skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Agility",
+            "description": "Reach level 99 in your Agility skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Agility XP",
+            "description": "Obtain 25 million experience in your Agility skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Herblore",
+            "description": "Reach level 99 in your Herblore skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Herblore XP",
+            "description": "Obtain 25 million experience in your Herblore skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Thieving",
+            "description": "Reach level 99 in your Thieving skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Thieving XP",
+            "description": "Obtain 25 million experience in your Thieving skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Crafting",
+            "description": "Reach level 99 in your Crafting skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Crafting XP",
+            "description": "Obtain 25 million experience in your Crafting skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Fletching",
+            "description": "Reach level 99 in your Fletching skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Fletching XP",
+            "description": "Obtain 25 million experience in your Fletching skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Slayer",
+            "description": "Reach level 99 in your Slayer skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Slayer XP",
+            "description": "Obtain 25 million experience in your Slayer skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Hunter",
+            "description": "Reach level 99 in your Hunter skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Hunter XP",
+            "description": "Obtain 25 million experience in your Hunter skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Mining",
+            "description": "Reach level 99 in your Mining skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Mining XP",
+            "description": "Obtain 25 million experience in your Mining skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Smithing",
+            "description": "Reach level 99 in your Smithing skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Smithing XP",
+            "description": "Obtain 25 million experience in your Smithing skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Fishing",
+            "description": "Reach level 99 in your Fishing skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Fishing XP",
+            "description": "Obtain 25 million experience in your Fishing skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Cooking",
+            "description": "Reach level 99 in your Cooking skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Cooking XP",
+            "description": "Obtain 25 million experience in your Cooking skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Firemaking",
+            "description": "Reach level 99 in your Firemaking skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Firemaking XP",
+            "description": "Obtain 25 million experience in your Firemaking skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Woodcutting",
+            "description": "Reach level 99 in your Woodcutting skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Woodcutting XP",
+            "description": "Obtain 25 million experience in your Woodcutting skill."
+        ,"complete": false},
+        {
+            "name": "Reach Level 99 Farming",
+            "description": "Reach level 99 in your Farming skill."
+        ,"complete": false},
+        {
+            "name": "Obtain 25 Million Farming XP",
+            "description": "Obtain 25 million experience in your Farming skill."
+        ,"complete": false},
+        {
+            "name": "Sub 30 Chambers of Xeric Solo",
+            "description": "Complete the Chambers of Xeric in 40 minutes or less, alone."
+        ,"complete": false},
+        {
+            "name": "Reach Combat Level 126",
+            "description": "Reach Combat Level 126.",
             "complete": false
         }
     ]

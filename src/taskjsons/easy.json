@@ -3,122 +3,141 @@
         {
             "name": "Achieve Your First Level Up",
             "description": "Level up any of your skills for the first time.",
-            "complete": false
+	        "complete":false
         },
         {
             "name": "Achieve Your First Level 5",
             "description": "Reach level 5 in any skill (not including Agility, Hitpoints and Runecraft).",
-            "complete": false
+            "complete":false
         },
         {
             "name": "Achieve Your First Level 10",
-            "description": "Reach level 10 in any skill (not including Agility and Hitpoints).",
-            "complete": false
-        },
+            "description": "Reach level 10 in any skill (not including Agility and Hitpoints)."
+        ,"complete":false},
         {
             "name": "Achieve Your First Level 20",
-            "description": "Reach level 20 in any skill.",
-            "complete": false
-        },
+            "description": "Reach level 20 in any skill."
+        ,"complete":false},
         {
             "name": "Reach Total Level 100",
-            "description": "Reach a Total Level of 100.",
-            "complete": false
-        },
+            "description": "Reach a Total Level of 100."
+        ,"complete":false},
         {
             "name": "Reach Total Level 250",
-            "description": "Reach a Total Level of 250.",
-            "complete": false
-        },
+            "description": "Reach a Total Level of 250."
+        ,"complete":false},
         {
             "name": "Reach Total Level 500",
-            "description": "Reach a Total Level of 500.",
-            "complete": false
-        },
+            "description": "Reach a Total Level of 500."
+        ,"complete":false},
         {
             "name": "Reach Base Level 5",
-            "description": "Reach level 5 in every skill.",
-            "complete": false
-        },
+            "description": "Reach level 5 in every skill."
+        ,"complete":false},
         {
             "name": "Reach Base Level 10",
-            "description": "Reach level 10 in every skill.",
-            "complete": false
-        },
+            "description": "Reach level 10 in every skill."
+        ,"complete":false},
         {
             "name": "Reach Base Level 20",
-            "description": "Reach level 20 in every skill.",
-            "complete": false
-        },
+            "description": "Reach level 20 in every skill."
+        ,"complete":false},
         {
             "name": "Receive a Slayer Task",
-            "description": "Receive a slayer task from any Slayer Master.",
-            "complete": false
-        },
+            "description": "Receive a slayer task from any Slayer Master."
+        ,"complete":false},
         {
             "name": "Reach Combat Level 10",
-            "description": "Reach Combat Level 10.",
-            "complete": false
-        },
+            "description": "Reach Combat Level 10."
+        ,"complete":false},
         {
             "name": "Reach Combat Level 25",
-            "description": "Reach Combat Level 25.",
-            "complete": false
-        },
+            "description": "Reach Combat Level 25."
+        ,"complete":false},
         {
             "name": "Complete the Gnome Stronghold Agility Course",
-            "description": "Complete a lap of the Gnome Stronghold Agility Course.",
-            "complete": false
-        },
+            "description": "Complete a lap of the Gnome Stronghold Agility Course."
+        ,"complete":false},
         {
             "name": "Complete Room 1 of Pyramid Plunder",
-            "description": "Search the Golden Chest in Room 1 of Pyramid Plunder in Sophanem.",
-            "complete": false
-        },
+            "description": "Search the Golden Chest in Room 1 of Pyramid Plunder in Sophanem."
+        ,"complete":false},
         {
             "name": "Complete Room 2 of Pyramid Plunder",
-            "description": "Search the Golden Chest in Room 2 of Pyramid Plunder in Sophanem.",
-            "complete": false
-        },
+            "description": "Search the Golden Chest in Room 2 of Pyramid Plunder in Sophanem."
+        ,"complete":false},
         {
             "name": "Complete the Al Kharid Agility Course",
-            "description": "Complete a lap of the Al Kharid Rooftop Agility Course.",
-            "complete": false
-        },
+            "description": "Complete a lap of the Al Kharid Rooftop Agility Course."
+        ,"complete":false},
         {
             "name": "1 Wintertodt Kill",
-            "description": "Help the pyromancers subdue the Wintertodt.",
-            "complete": false
-        },
+            "description": "Help the pyromancers subdue the Wintertodt."
+        ,"complete":false},
         {
             "name": "25 Wintertodt Kills",
-            "description": "Help the pyromancers subdue the Wintertodt 25 times.",
-            "complete": false
-        },
+            "description": "Help the pyromancers subdue the Wintertodt 25 times."
+        ,"complete":false},
         {
             "name": "50 Wintertodt Kills",
-            "description": "Help the pyromancers subdue the Wintertodt 50 times.",
-            "complete": false
-        },
+            "description": "Help the pyromancers subdue the Wintertodt 50 times."
+        ,"complete":false},
         {
             "name": "75 Wintertodt Kills",
-            "description": "Help the pyromancers subdue the Wintertodt 75 times.",
-            "complete": false
-        },
+            "description": "Help the pyromancers subdue the Wintertodt 75 times."
+        ,"complete":false},
         {
             "name": "100 Wintertodt Kills",
-            "description": "Help the pyromancers subdue the Wintertodt 100 times.",
-            "complete": false
-        },
+            "description": "Help the pyromancers subdue the Wintertodt 100 times."
+        ,"complete":false},
         {
-            "name": "1 Sarachnis Kill",
-            "description": "Kill Sarachnis in the Forthos Dungeon.",
-            "complete": false
-        },
+            "name": "Do 15% of the achievements",
+            "description": "Complete up to 15% of all the achievements"
+        ,"complete":false},
         {
-            "name": "Complete 15% of the achievements",
-            "description": "Complete 15% of the achievements",
-            "complete": false
+            "name": "Achieve Your First Level 30",
+            "description": "Reach level 30 in any skill."
+        ,"complete":false},
+        {
+            "name": "Achieve Your First Level 40",
+            "description": "Reach level 40 in any skill."
+        ,"complete":false},
+        {
+            "name": "Achieve Your First Level 50",
+            "description": "Reach level 50 in any skill."
+        ,"complete":false},
+        {
+            "name": "Reach Total Level 750",
+            "description": "Reach a Total Level of 750."
+        ,"complete":false},
+        {
+            "name": "Reach Total Level 1000",
+            "description": "Reach a Total Level of 1000."
+        ,"complete":false},
+        {
+            "name": "Reach Total Level 1250",
+            "description": "Reach a Total Level of 1250."
+        ,"complete":false},
+        {
+            "name": "Reach Base Level 30",
+            "description": "Reach level 30 in every skill."
+        ,"complete":false},
+        {
+            "name": "Reach Base Level 40",
+            "description": "Reach level 40 in every skill."
+        ,"complete":false},
+        {
+            "name": "Reach Base Level 50",
+            "description": "Reach level 50 in every skill."
+        ,"complete":false},
+        {
+            "name": "Reach Combat Level 50",
+            "description": "Reach Combat Level 50."
+        ,"complete":false},
+        {
+            "name": "Reach Combat Level 75",
+            "description": "Reach Combat Level 75.",
+"complete":false
         }
     ]
 }
