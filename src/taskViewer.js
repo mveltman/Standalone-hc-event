@@ -10,10 +10,15 @@ export const TaskViewer = ({ tasks, tasktier }) => {
         taskarray.forEach(task => {
             if(task.name === taskname) {
                 task.complete = !task.complete
+                if(tasktier === "hardTasks" || tasktier === "eliteTasks" || tasktier === "masterTasks"){
+                    if(localStorage.getItem("alive") === "false"){
+                        task.afterdeath = true;
+                    }
+                }
+
             }
             tasklist.push(task);
         });
-        console.log(tasklist)
         setTasksarray(tasklist);
         localStorage.setItem(tasktier, JSON.stringify({"tasks": tasklist}))
     }

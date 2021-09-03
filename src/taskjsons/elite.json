@@ -3,739 +3,739 @@
         {
             "name": "Obtain a Skilling Pet",
             "description": "Obtain any skilling pet."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete 200 Slayer Tasks",
             "description": "Complete 200 Slayer Tasks."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Craft an Onyx Amulet",
             "description": "Craft an Onyx Amulet."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Smith a Dragonfire Shield",
             "description": "Use an Anvil to smith a Dragonfire Shield."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Make a Super Combat Potion",
             "description": "Make a Super Combat Potion."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Obtain a Boss Pet",
             "description": "Obtain any Boss Pet."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Full Dragon Set",
             "description": "Equip a Dragon platebody, a Dragon full helm and either some Dragon platelegs or a Dragon plateskirt."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Add a Jar to a Display Case",
             "description": "Add a Jar to a Display Case in your Player Owned House Achievement Gallery."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip an Abyssal Whip",
             "description": "Equip an Abyssal Whip."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Gain 50 Unique Items From Hard Clues",
             "description": "Gain 50 unique items from Hard Clue Scroll Reward Caskets."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Gain 25 Unique Items From Elite Clues",
             "description": "Gain 25 unique items from Elite Clue Scroll Reward Caskets."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Gain 25 Unique Items From Master Clues",
             "description": "Gain 25 unique items from Master Clue Scroll Reward Caskets."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Fill Every Beginner Clue Collection Log Slot",
             "description": "Fill every slot in the Beginner Clue section of the Collection Log."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Fill 50 Easy Clue Collection Log Slots",
             "description": "Fill 50 slots in the Easy Clue section of the Collection Log."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Fill 40 Medium Clue Collection Log Slots",
             "description": "Fill 40 slots in the Medium Clue section of the Collection Log."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Fill 30 Hard Clue Collection Log Slots",
             "description": "Fill 30 slots in the Hard Clue section of the Collection Log."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Fill 25 Elite Clue Collection Log Slots",
             "description": "Fill 25 slots in the Elite Clue section of the Collection Log."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Fill 25 Master Clue Collection Log Slots",
             "description": "Fill 25 slots in the Master Clue section of the Collection Log."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Catch a Herbiboar 100 Times",
             "description": "Catch a Herbiboar on Fossil Island 100 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Catch a Herbiboar 250 Times",
             "description": "Catch a Herbiboar on Fossil Island 250 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Catch a Herbiboar 500 Times",
             "description": "Catch a Herbiboar on Fossil Island 500 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Mine a Runite Ore Fragment",
             "description": "Mine a runite ore fragment in the Volcanic Mine on Fossil Island."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Dragon Crossbow",
             "description": "Equip a Dragon Crossbow."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Dragonfire Shield",
             "description": "Equip a Dragonfire Shield."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip an Ancient Wyvern Shield",
             "description": "Equip an Ancient Wyvern Shield."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip an Abyssal Bludgeon",
             "description": "Equip an Abyssal Bludgeon."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip an Abyssal Dagger",
             "description": "Equip an Abyssal Dagger."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Offer an Unsired to the Font of Consumption",
             "description": "Offer an Unsired to the Font of Consumption in the Abyssal Nexus."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Abyssal Sire 100 Times",
             "description": "Defeat the Abyssal Sire in the Abyssal Nexus 100 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Abyssal Sire 250 Times",
             "description": "Defeat the Abyssal Sire in the Abyssal Nexus 250 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Abyssal Sire 500 Times",
             "description": "Defeat the Abyssal Sire in the Abyssal Nexus 500 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Inferno 5 Times",
             "description": "Complete the Inferno 5 Times"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Inferno 10 Times",
             "description": "Complete the Inferno 10 Times"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Inferno 20 Times",
             "description": "Complete the Inferno 20 Times"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Purchase an Onyx in Mor Ul Rek",
             "description": "Purchase an Onyx in Mor Ul Rek"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip an Infernal Tool",
             "description": "Equip either an infernal axe, an infernal pickaxe or an infernal harpoon."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Staff of the Dead",
             "description": "Equip a staff of the dead."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Zamorakian Spear",
             "description": "Equip a zamorakian spear."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Piece of the Armadyl Armour Set",
             "description": "Equip any piece of the Armadyl armour set."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Saradomin Sword",
             "description": "Equip a saradomin sword."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Piece of the Bandos Armour Set",
             "description": "Equip any piece of the Bandos armour set."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip an Armadyl Crossbow",
             "description": "Equip an armadyl crossbow."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip Some Primordial, Pegasian or Eternal Boots",
             "description": "Equip either some primordial boots, some pegasian boots or some eternal boots."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Godsword",
             "description": "Equip any godsword."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Cerberus",
             "description": "Defeat Cerberus in the Taverley Dungeon."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Any God Wars Dungeon Boss 100 Times",
             "description": "Defeat any God Wars Dungeon boss 100 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Any God Wars Dungeon Boss 250 Times",
             "description": "Defeat any God Wars Dungeon boss 250 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Any God Wars Dungeon Boss 500 Times",
             "description": "Defeat any God Wars Dungeon boss 500 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Giant Mole 250 Times",
             "description": "Defeat the Giant Mole beneath Falador 250 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Giant Mole 500 Times",
             "description": "Defeat the Giant Mole beneath Falador 500 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Giant Mole 750 Times",
             "description": "Defeat the Giant Mole beneath Falador 750 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Build a Gilded Portal Nexus",
             "description": "Build a gilded portal nexus in a Portal Nexus in your player-owned house."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Dragonfire Ward",
             "description": "Equip a dragonfire ward."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Dragonbone Necklace",
             "description": "Equip a dragonbone necklace."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Vorkath in 1:00",
             "description": "Defeat Vorkath on Ungael in 1:00 or less."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip Every Dagannoth King Ring",
             "description": "Equip an archers ring, a berserker ring, a seers ring and a warrior ring."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Vorkath 250 Times",
             "description": "Defeat Vorkath on Ungael 250 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Vorkath 500 Times",
             "description": "Defeat Vorkath on Ungael 500 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Vorkath 750 Times",
             "description": "Defeat Vorkath on Ungael 750 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Each Dagannoth King 300 Times",
             "description": "Defeat all three of the Dagannoth Kings in the Waterbirth Island Dungeon 300 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Each Dagannoth King 650 Times",
             "description": "Defeat all three of the Dagannoth Kings in the Waterbirth Island Dungeon 650 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Each Dagannoth King 1000 Times",
             "description": "Defeat all three of the Dagannoth Kings in the Waterbirth Island Dungeon 1000 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Ardougne Agility Course",
             "description": "Complete a lap of the Ardougne Rooftop Course."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat a Smoke Devil",
             "description": "Defeat a smoke devil in the Smoke Devil Dungeon."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Heavy Ballista",
             "description": "Equip a heavy ballista."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip an Abyssal Tentacle",
             "description": "Equip an abyssal tentacle."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Thermonuclear Smoke Devil",
             "description": "Defeat the thermonuclear smoke devil in the Smoke Devil Dungeon."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip an Occult Necklace",
             "description": "Equip an occult necklace."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Dragon Full Helm",
             "description": "Equip a dragon full helm."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Kraken Boss 250 Times",
             "description": "Defeat the Kraken boss in Kraken Cove 250 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Kraken Boss 500 Times",
             "description": "Defeat the Kraken boss in Kraken Cove 500 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Kraken Boss 750 Times",
             "description": "Defeat the Kraken boss in Kraken Cove 750 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat 300 Demonic Gorillas",
             "description": "Defeat 300 demonic gorillas in the Crash Site Cavern."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat 750 Demonic Gorillas",
             "description": "Defeat 750 demonic gorillas in the Crash Site Cavern."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat 1500 Demonic Gorillas",
             "description": "Defeat 1500 demonic gorillas in the Crash Site Cavern."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete Room 8 of Pyramid Plunder",
             "description": "Search the Golden Chest in Room 8 of Pyramid Plunder in Sophanem."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete Room 8 of Pyramid Plunder 50 Times",
             "description": "Search the Golden Chest in Room 8 of Pyramid Plunder in Sophanem 50 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete Room 8 of Pyramid Plunder 100 Times",
             "description": "Search the Golden Chest in Room 8 of Pyramid Plunder in Sophanem 100 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete Room 8 of Pyramid Plunder 250 Times",
             "description": "Search the Golden Chest in Room 8 of Pyramid Plunder in Sophanem 250 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Dragon Chainbody in the Kharidian Desert",
             "description": "Equip a Dragon chainbody in the Kharidian Desert."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Kalphite Queen 100 Times",
             "description": "Defeat the Kalphite Queen in the Kalphite Lair 100 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Kalphite Queen 250 Times",
             "description": "Defeat the Kalphite Queen in the Kalphite Lair 250 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Kalphite Queen 500 Times",
             "description": "Defeat the Kalphite Queen in the Kalphite Lair 500 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Full Infinity Robe Set",
             "description": "Equip a full set of Infinity robes."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Master Wand",
             "description": "Equip a Master Wand."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Mage's Book",
             "description": "Equip a Mage's Book."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete Floor 5 of the Hallowed Sepulchre",
             "description": "Complete floor 5 of the Hallowed Sepulchre in Darkmeyer."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Hallowed Sepulchre in 6:30",
             "description": "Complete the Hallowed Sepulchre in Darkmeyer in 6:30 or less."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Ring of Endurance",
             "description": "Equip a Ring of Endurance."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat The Nightmare",
             "description": "Defeat The Nightmare in the Sisterhood Sanctuary."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Theatre of Blood With No Deaths",
             "description": "Complete the Theatre of Blood without any party member dying."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip Some Guardian Boots",
             "description": "Equip a pair of Guardian Boots."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip Every Barrows Armour Set",
             "description": "Equip all six sets of Barrows armour."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip an Inquisitor's Mace",
             "description": "Equip an Inquisitor's mace."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Piece of the Inquisitor's Set",
             "description": "Equip any piece of the Inquisitor's armour set."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Nightmare Staff",
             "description": "Equip a normal Nightmare staff."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Create an Amulet of Blood Fury",
             "description": "Create an amulet of blood fury."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip an Avernic Defender",
             "description": "Equip an Avernic defender."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Sanguinesti Staff",
             "description": "Equip a Sanguinesti staff."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Scythe of Vitur",
             "description": "Equip a Scythe of Vitur."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Piece of the Justiciar Set",
             "description": "Equip any piece of the Justiciar armour set."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Ghrazi Rapier",
             "description": "Equip a Ghrazi rapier."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Theatre of Blood in 25:00",
             "description": "Complete the Theatre of Blood in 25:00 or less challenge time with 3 players or less."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat The Nightmare in 3:30",
             "description": "Defeat The Nightmare in the Sisterhood Sanctuary in 3:30 or less with 5 players or less."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Theatre of Blood 100 Times",
             "description": "Complete the Theatre of Blood 100 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Theatre of Blood 200 Times",
             "description": "Complete the Theatre of Blood 200 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Theatre of Blood 350 Times",
             "description": "Complete the Theatre of Blood 350 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Theatre of Blood 500 Times",
             "description": "Complete the Theatre of Blood 500 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Grotesque Guardians 250 Times",
             "description": "Defeat the Grotesque Guardians at the Slayer Tower 250 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Obtain a Zalcano Shard",
             "description": "Obtain a Zalcano shard as a drop from Zalcano in Prifddinas."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Full Crystal Armour Set",
             "description": "Equip a full set of Crystal armour."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Corrupted Gauntlet",
             "description": "Complete the Corrupted Gauntlet in Prifddinas."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Obtain a Crystal Tool Seed",
             "description": "Obtain a Crystal tool seed as a drop from Zalcano."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Serpentine Helm",
             "description": "Equip a Serpentine helm."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Craft a Toxic Blowpipe",
             "description": "Craft a Toxic blowpipe."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Craft a Toxic Trident",
             "description": "Craft a Toxic trident."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Zulrah in 0:54",
             "description": "Defeat Zulrah at the Poison Waste in 0:54 or less."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Gauntlet in 5:00",
             "description": "Complete the Gauntlet in Prifddinas in 5:00 or less."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Corrupted Gauntlet in 8:30",
             "description": "Complete the Corrupted Gauntlet in Prifddinas in 8:30 or less."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Corrupted Gauntlet in 7:00",
             "description": "Complete the Corrupted Gauntlet in Prifddinas in 7:00 or less."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Corrupted Gauntlet 100 Times",
             "description": "Complete the Corrupted Gauntlet in Prifddinas 100 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Complete the Corrupted Gauntlet 250 Times",
             "description": "Complete the Corrupted Gauntlet in Prifddinas 250 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Zalcano 250 Times",
             "description": "Defeat Zalcano in Prifddinas 250 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Zalcano 500 Times",
             "description": "Defeat Zalcano in Prifddinas 500 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Zulrah 250 Times",
             "description": "Defeat Zulrah at the Poison Waste 250 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat Zulrah 500 Times",
             "description": "Defeat Zulrah at the Poison Waste 500 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Piece of the Dragonstone Armour Set",
             "description": "Equip any piece of the Dragonstone armour set."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Treasonous Ring",
             "description": "Equip a Treasonous ring."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Tyrannical Ring",
             "description": "Equip a Tyrannical ring."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Ring of the Gods",
             "description": "Equip a Ring of the gods."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Craw's Bow",
             "description": "Equip a Craw's Bow."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Viggora's Chainmace",
             "description": "Equip a Viggora's Chainmace."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Thammaron's Sceptre",
             "description": "Equip a Thammaron's Sceptre."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Corporeal Beast",
             "description": "Defeat the Corporeal Beast in the Wilderness."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Corporeal Beast 100 Times",
             "description": "Defeat the Corporeal Beast in the Wilderness 100 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Corporeal Beast 250 Times",
             "description": "Defeat the Corporeal Beast in the Wilderness 250 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the Corporeal Beast 500 Times",
             "description": "Defeat the Corporeal Beast in the Wilderness 500 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Blessed Spirit Shield",
             "description": "Equip a Blessed Spirit Shield."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Malediction Ward",
             "description": "Equip a Malediction Ward."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip an Odium Ward",
             "description": "Equip an Odium Ward."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Build an Obelisk",
             "description": "Build an obelisk in your Player Owned House."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Full Dagon'Hai Set",
             "description": "Equip a full set of Dagon'hai robes."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Receive 5 Chambers of Xeric Uniques",
             "description": "Receive 5 unique drops from completing the Chambers of Xeric."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "25 Mimic Kills",
             "description": "Kill the Mimic as part of a treasure trail 25 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "50 Mimic Kills",
             "description": "Kill the Mimic as part of a treasure trail 50 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "2000 Wintertodt Kills",
             "description": "Help the pyromancers subdue the Wintertodt 2000 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "10000 Lizardmen Shaman Kills",
             "description": "Help the Shayzien house by killing 10000 Lizardmen shamans."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "2000 Sarachnis Kills",
             "description": "Kill Sarachnis in the Forthos Dungeon 2000 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "2500 Sarachnis Kills",
             "description": "Kill Sarachnis in the Forthos Dungeon 2500 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "25 Skotizo Kills",
             "description": "Kill Skotizo beneath the Catacombs of Kourend 25 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "50 Skotizo Kills",
             "description": "Kill Skotizo beneath the Catacombs of Kourend 50 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "75 Skotizo Kills",
             "description": "Kill Skotizo beneath the Catacombs of Kourend 75 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "100 Skotizo Kills",
             "description": "Kill Skotizo beneath the Catacombs of Kourend 100 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "150 Skotizo Kills",
             "description": "Kill Skotizo beneath the Catacombs of Kourend 150 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "200 Skotizo Kills",
             "description": "Kill Skotizo beneath the Catacombs of Kourend 200 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "250 Skotizo Kills",
             "description": "Kill Skotizo beneath the Catacombs of Kourend 250 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "2000 Alchemical Hydra Kills",
             "description": "Kill the Alchemical Hydra in Mount Karuulm 2000 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "2500 Alchemical Hydra Kills",
             "description": "Kill the Alchemical Hydra in Mount Karuulm 2500 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "250 Chambers of Xeric",
             "description": "Complete the Chambers of Xeric 250 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "500 Chambers of Xeric",
             "description": "Complete the Chambers of Xeric 500 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "25 CM Chambers of Xeric",
             "description": "Complete the Chambers of Xeric Challenge Mode 25 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "50 CM Chambers of Xeric",
             "description": "Complete the Chambers of Xeric Challenge Mode 50 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "100 CM Chambers of Xeric",
             "description": "Complete the Chambers of Xeric Challenge Mode 100 times."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Receive 10 Chambers of Xeric Uniques",
             "description": "Receive 10 unique drops from completing the Chambers of Xeric."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip an Eternal Slayer Ring",
             "description": "Craft and equip an Eternal slayer ring."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Activate an Imbued Heart",
             "description": "Obtain and activate an Imbued heart."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Equip a Dragon Hunter Lance",
             "description": "Obtain and equip a Dragon hunter lance."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Do 85% of the achievements",
             "description": "Complete 85% of the achievements"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Receive the Tanzanite Fang in under 1500 kills",
             "description": "Receive the Tanzanite Fang in under 1500 kills"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Receive 5 Volatile Orbs in under 1500 kills",
             "description": "Receive 5 Volatile Orbs in under 1500 kills"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Receive the bloodbunny pet",
             "description": "Receive the bloodbunny pet"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the bloodbunny 100 times",
             "description": "Defeat the bloodbunny 100 times"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the bloodbunny 250 times",
             "description": "Defeat the bloodbunny 250 times"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat the bloodbunny in under 15:00",
             "description": "Defeat the bloodbunny in under 15:00"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Receive any unique from the theatre of blood",
             "description": "Receive any unique from the theatre of blood"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Receive 5 uniques from the theatre of blood",
             "description": "Receive 5 uniques from the theatre of blood"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Recive any third age item",
             "description": "Recive any third age item"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Reach Total Level 2277",
             "description": "Reach the highest possible Total Level of 2277."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Reach Base Level 95",
             "description": "Reach level 95 in every skill."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Receive the pet snakeling from zulrah in under 1000 kills",
             "description": "Receive the pet snakeling from zulrah in under 1000 kills"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Sub 55 CM Chambers of Xeric Solo",
             "description": "Complete the Chambers of Xeric Challenge Mode in 55 minutes or less, alone."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Sub 50 CM Chambers of Xeric Solo",
             "description": "Complete the Chambers of Xeric Challenge Mode in 50 minutes or less, alone."
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat 1000 Fragments of Seren",
             "description": "Defeat 1000 Fragments of Seren"
-        ,"complete": false},
+        ,"complete": false, "afterdeath": false},
         {
             "name": "Defeat 500 Fragments of Seren",
             "description": "Defeat 500 Fragments of Seren",
-            "complete": false
+            "complete": false, "afterdeath": false
         }
     ]
 }

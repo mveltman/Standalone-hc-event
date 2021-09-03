@@ -54,24 +54,37 @@ export const TaskOverview = () => {
         });
 
         hardtasks.forEach(task => {
-            if(task.complete) hardpoints = hardpoints + hardpointsconst;
+            if(task.complete){
+                if(task.afterdeath){
+                    hardpoints = hardpoints + (hardpointsconst/2);
+                }else{
+                    hardpoints = hardpoints + hardpointsconst;
+                }
+            }
         });
 
         elitetasks.forEach(task => {
-            if(task.complete) elitepoints = elitepoints + elitepointsconst;
+            if(task.complete) {
+                if(task.afterdeath) {
+                    elitepoints = elitepoints + (elitepointsconst/2);
+                } else {
+                    elitepoints = elitepoints + elitepointsconst;
+                }
+            }
         });
 
         mastertasks.forEach(task => {
-            if(task.complete) masterpoints = masterpoints + masterpointsconst;
+            if(task.complete) {
+                if(task.afterdeath) {
+                    masterpoints = masterpoints + (masterpointsconst/2);
+                } else {
+                    masterpoints = masterpoints + masterpointsconst;
+                }
+            } 
         });
 
-        let softpointTotal = easypoints + mediumpoints;
-        let hardpointTotal = hardpoints + elitepoints + masterpoints;
-        if((alive === "true")){
-            return softpointTotal + hardpointTotal;
-        }else {
-            return softpointTotal + hardpointTotal/2;
-        }
+        let pointTotal = easypoints + mediumpoints + hardpoints + elitepoints + masterpoints;
+        return pointTotal;
     }
 
     return(
